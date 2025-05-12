@@ -1,7 +1,7 @@
 /* Style the main top bar (logo + menu) */
 header {
   background-color: #333; /* Dark background */
-  background-image: none; /* This disables the image */
+  background-image: none; /* Disable default header image */
   color: white; /* Text color */
   padding: 10px 0; /* Space around the content */
   display: flex;
@@ -10,7 +10,7 @@ header {
 }
 
 header .inner {
-  max-width: 1200px; /* Adjust the width as needed */
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
@@ -19,7 +19,7 @@ header .inner {
 }
 
 header .site-logo img {
-  height: 40px; /* Adjust logo size */
+  height: 40px; /* Corrected class name */
 }
 
 header nav {
@@ -42,12 +42,12 @@ header nav ul li:last-child {
 }
 
 header nav ul li a {
-  color: white; /* Link color */
-  text-decoration: none; /* Remove underline */
+  color: white;
+  text-decoration: none;
   font-size: 16px;
-  font-weight: bold; /* You can adjust font weight */
+  font-weight: bold;
 }
 
 header nav ul li a:hover {
-  text-decoration: underline; /* Add underline on hover */
+  text-decoration: underline;
 }
