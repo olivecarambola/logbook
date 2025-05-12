@@ -6,10 +6,17 @@ header {
   background-color: #111;
   background-image: none !important;
   color: #f0f0f0;
-  padding: 10px 0;
+  padding: 0;  /* Remove any padding here */
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
+  width: 100%;
+  position: relative;
+  z-index: 10;
+  
+  /* Add borders */
+  border-top: 3px solid #333333;  /* 3px top border */
+  border-bottom: 1px solid #333333;  /* 1px bottom border */
 }
 
 header .inner {
@@ -27,8 +34,6 @@ header .site-logo img {
 
 header nav {
   display: flex;
-  justify-content: flex-start; /* Align menu to the left */
-  width: 100%; /* Take full width so alignment works as expected */
 }
 
 header nav ul {
@@ -58,6 +63,7 @@ header nav ul li a:hover {
 }
 
 body {
-  background-color: black;  /* Set the background color to black */
-  color: #f0f0f0;  /* Make text white to maintain readability */
+  background-color: black;
+  color: #f0f0f0;
+  margin: 0;
 }
