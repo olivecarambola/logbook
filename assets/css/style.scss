@@ -27,6 +27,8 @@ header .site-logo img {
 
 header nav {
   display: flex;
+  justify-content: flex-start; /* Align menu to the left */
+  width: 100%; /* Take full width so alignment works as expected */
 }
 
 header nav ul {
