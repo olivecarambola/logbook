@@ -17,8 +17,8 @@ header .inner {
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 header .site-logo img {
