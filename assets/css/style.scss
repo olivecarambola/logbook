@@ -1,9 +1,12 @@
+---
+---
+
 /* Style the main top bar (logo + menu) */
 header {
-  background-color: #333; /* Dark background */
-  background-image: none; /* Disable default header image */
-  color: white; /* Text color */
-  padding: 10px 0; /* Space around the content */
+  background-color: #333;
+  background-image: none !important;
+  color: white;
+  padding: 10px 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -19,7 +22,7 @@ header .inner {
 }
 
 header .site-logo img {
-  height: 40px; /* Corrected class name */
+  height: 40px;
 }
 
 header nav {
