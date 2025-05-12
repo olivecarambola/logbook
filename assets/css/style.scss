@@ -1,6 +1,7 @@
 /* Style the main top bar (logo + menu) */
 header {
   background-color: #333; /* Dark background */
+  background-image: none; /* This disables the image */
   color: white; /* Text color */
   padding: 10px 0; /* Space around the content */
   display: flex;
@@ -17,7 +18,7 @@ header .inner {
   align-items: center;
 }
 
-header .logo img {
+header .site-logo img {
   height: 40px; /* Adjust logo size */
 }
 
