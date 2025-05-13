@@ -14,6 +14,15 @@
 
   <body>
     {% include header.html %}
+    <nav class="secondary-bar">
+      <div class="inner">
+        <ul>
+          <li><a href="{{ '/posts/last.html' | relative_url }}">Last entry</a></li>
+          <li><a href="{{ '/posts/all.html' | relative_url }}">All titles</a></li>
+          <li><a href="{{ '/posts/search.html' | relative_url }}">Search</a></li>
+        </ul>
+      </div>
+    </nav>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
