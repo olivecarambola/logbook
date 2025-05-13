@@ -1,5 +1,5 @@
 ---
 layout: searchposts
-title: Search
+title: Posts | Search
 permalink: /posts/search/
 ---
