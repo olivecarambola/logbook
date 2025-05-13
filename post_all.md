@@ -1,5 +1,5 @@
 ---
 layout: allposts
-title: Posts | All titles
+title: All Posts
 permalink: /posts/all/
 ---
