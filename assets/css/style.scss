@@ -52,10 +52,11 @@ header nav ul li:last-child {
 }
 
 header nav ul li a {
-  color: white;
+  color: #f0f0f0;
   text-decoration: none;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: normal;
+  font-family: 'Zain', sans-serif;
 }
 
 header nav ul li a:hover {
