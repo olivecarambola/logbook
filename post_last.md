@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: Last entry
+title: Posts | Last entry
 permalink: /posts/last/
 ---
