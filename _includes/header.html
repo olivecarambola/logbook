@@ -7,8 +7,8 @@
     <nav class="main-nav">
       <ul class="topbar-menu">
         <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-        <li><a href="{{ '/posts/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Posts</a></li>
-        <li><a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">About</a></li>
+        <li><a href="{{ '/posts/' | relative_url }}" class="{% if page.url contains '/posts/' %}active{% endif %}">Posts</a></li>
+        <li><a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About</a></li>
       </ul>
     </nav>
   </div>
