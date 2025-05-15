@@ -35,7 +35,7 @@
                 {{ post.title }}
                 <small style="float:right;">{{ post.date | date: "%Y-%m-%d" }}</small>
               </h2>
-              <button class="toggle-content" data-target="content-{{ forloop.index }}">Read more</button>
+              <button class="toggle-content" data-target="content-{{ forloop.index }}">See full post</button>
               <button onclick="window.open('{{ post.url }}', '_blank')">Open in new tab</button>
               <p class="summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
               <div class="full-content" id="content-{{ forloop.index }}" style="display:none;">
