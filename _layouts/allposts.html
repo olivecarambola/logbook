@@ -33,7 +33,18 @@
             <li class="post-item" id="post-{{ forloop.index }}">
               <h2>
                 {{ post.title }}
-                <small style="float:right;">{{ post.date | date: "%Y-%m-%d" }}</small>
+                {% assign d = post.date | date: "%-d" | plus: 0 %}
+                {% capture suffix %}
+                  {% case d %}
+                    {% when 1 or 21 or 31 %}st
+                    {% when 2 or 22 %}nd
+                    {% when 3 or 23 %}rd
+                    {% else %}th
+                  {% endcase %}
+                {% endcapture %}
+                <small style="float:right;">
+                  {{ post.date | date: "%b" }} {{ d }}{{ suffix }}, {{ post.date | date: "%Y" }}
+                </small>
               </h2>
               <button class="toggle-content" data-target="content-{{ forloop.index }}">Read more</button>
               <button onclick="window.open('{{ post.url }}', '_blank')">Open in new tab</button>
