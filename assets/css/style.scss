@@ -128,6 +128,11 @@ img {
   font-family: 'Zain', sans-serif;
 }
 
+header nav ul li a.active,
+.secondary-bar ul li a.active {
+  font-weight: bold;
+}
+
 .secondary-bar ul li a:hover {
   text-decoration: underline;
 }
