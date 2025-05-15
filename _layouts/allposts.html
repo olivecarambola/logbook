@@ -27,9 +27,47 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {{ content }}
+
+          <ul id="posts-list">
+            {% for post in site.posts %}
+            <li class="post-item" id="post-{{ forloop.index }}">
+              <h2>
+                {{ post.title }}
+                <small style="float:right;">{{ post.date | date: "%Y-%m-%d" }}</small>
+              </h2>
+              <button class="toggle-content" data-target="content-{{ forloop.index }}">Read more</button>
+              <button onclick="window.open('{{ post.url }}', '_blank')">Open in new tab</button>
+              <p class="summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
+              <div class="full-content" id="content-{{ forloop.index }}" style="display:none;">
+                {{ post.content | markdownify }}
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+
         </section>
       </div>
     </div>
+
+    <script>
+    document.querySelectorAll('.toggle-content').forEach(button => {
+      button.addEventListener('click', () => {
+        const targetId = button.getAttribute('data-target');
+        const content = document.getElementById(targetId);
+        const summary = document.getElementById(targetId.replace('content', 'summary'));
+
+        if (content.style.display === 'none') {
+          content.style.display = 'block';
+          summary.style.display = 'none';
+          button.textContent = 'Show less';
+        } else {
+          content.style.display = 'none';
+          summary.style.display = 'block';
+          button.textContent = 'Read more';
+        }
+      });
+    });
+    </script>
+
   </body>
 </html>
