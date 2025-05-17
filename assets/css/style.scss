@@ -51,23 +51,24 @@ header nav ul li:last-child {
   margin-right: 0;
 }
 
-header nav ul li a {
-  color: #f0f0f0;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: normal;
-  font-family: 'Zain', sans-serif;
+header nav ul li a {                     /* top bar menu items styling */
+  color: #f0f0f0;                        /* color off-white */
+  text-decoration: none;                 /* no underline */
+  font-size: 20px;                       /* size 20px */
+  font-weight: normal;                   /* not bold */
+  font-family: 'Zain', sans-serif;       /* font Zain */
 }
 
 header nav ul li a:hover {
   text-decoration: underline;
 }
 
-body {
-  background-color: black;
-  color: #f0f0f0;
+body {                                   /* default content styling */
+  background-color: black;               /* page background black */
+  color: #f0f0f0;                        /* color off-white */
+  font-size: 16px;                       /* size 16 */
   margin: 0;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Nunito', sans-serif;     /* font Nunito */
 }
 
 #main-content {
@@ -120,17 +121,17 @@ img {
   margin-right: 0;
 }
 
-.secondary-bar ul li a {
-  color: #bdbdbd;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: normal;
-  font-family: 'Zain', sans-serif;
+.secondary-bar ul li a {                 /* secondary bar menu items styling */
+  color: #bdbdbd;                        /* font color darker than off-white */
+  text-decoration: none;                 /* not underline */
+  font-size: 18px;                       /* size 18 */
+  font-weight: normal;                   /* not bold */
+  font-family: 'Zain', sans-serif;       /* font Zain */
 }
 
-header nav ul li a.active,
+header nav ul li a.active,               /* active menu item styling */
 .secondary-bar ul li a.active {
-  font-weight: bold;
+  font-weight: bold;                     /* bold if active */
 }
 
 .secondary-bar ul li a:hover {
