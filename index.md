@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-Stories and musings of a woman who can't decide between two diametrically opposed cultures, can't commit to a vocation, can't seem to locate her people, and can't land on a style of conduct in her affairs to save her life.
+<span class="body-bigger">Stories and musings of a woman who can't decide between two diametrically opposed cultures, can't commit to a vocation, can't seem to locate her people, and can't land on a style of conduct in her affairs to save her life.</span>
 
 Contains prose, poetry, quoted text, translated text, and credited images. These bits and pieces do not follow a chronological order of events, do not feature a coherent narration style or main characters, and can only promise to frustrate the reader.
 
