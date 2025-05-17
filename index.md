@@ -6,7 +6,7 @@ Stories and musings of a woman who can't decide between two diametrically oppose
 
 Contains prose, poetry, quoted text, translated text, and credited images. These bits and pieces do not follow a chronological order of events, do not feature a coherent narration style or main characters, and can only promise to frustrate the reader.
 
-No AI-generated stuff here. Unless, of course, David Foster Wallace or Kurt Vonnegut somehow had access to generative AI tools back in the day and it snuck in within quotes, i.e., I can't speak for the owners of the credited content. No AI translations either. I write mostly in English and did all the translations myself the old-fashioned way with credit to their owners.
+No AI-generated stuff here. Unless, of course, David Foster Wallace or Kurt Vonnegut somehow had access to generative AI tools back in the day and it snuck in within quotes, i.e., I can't speak for the owners of the credited content, which are clearly marked. No AI translations either. I write mostly in English and did all the translations myself the old-fashioned way with credit to their owners.
 
 This site is merely an attempt at organizing the things I've been writing in a digital scrapbook. I write to deal with life, not to create content. I certainly don't presume to appeal to a mainstream audience.
 
