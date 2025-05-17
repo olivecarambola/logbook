@@ -32,8 +32,20 @@
             {% for post in site.posts %}
             <li class="post-item" id="post-{{ forloop.index }}">
               <h2>
-                {{ post.title }}
-                <small style="float:right;">{{ post.date | date: "%Y-%m-%d" }}</small>
+                {{ post.title }} | 
+                {% assign d = post.date | date: "%-d" %}
+                {% assign m = post.date | date: "%b" %}
+                {% assign y = post.date | date: "%Y" %}
+                {% case d %}
+                  {% when '1' or '21' or '31' %}
+                    {{ m }} {{ d }}st, {{ y }}
+                  {% when '2' or '22' %}
+                    {{ m }} {{ d }}nd, {{ y }}
+                  {% when '3' or '23' %}
+                    {{ m }} {{ d }}rd, {{ y }}
+                  {% else %}
+                    {{ m }} {{ d }}th, {{ y }}
+                {% endcase %}
               </h2>
               <button class="toggle-content" data-target="content-{{ forloop.index }}">Read more</button>
               <button onclick="window.open('{{ post.url }}', '_blank')">Open in new tab</button>
