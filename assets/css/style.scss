@@ -138,8 +138,13 @@ header nav ul li a.active,               /* active menu item styling */
 
 #posts-list {
   list-style: none;
-  padding-left: 20px;
+  padding: 0;
   margin: 0;
+}
+
+#posts-list li {
+  margin: 0;
+  padding: 0;
 }
 
 .text-body-bigger {                      /* slightly bigger body content styling */
