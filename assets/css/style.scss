@@ -1,10 +1,9 @@
 ---
 ---
 
-/* Style the main top bar (logo + menu) */
-header {
-  background-color: #111;
-  background-image: none !important;
+header {                                /* main top bar (logo + menu) */
+  background-color: #111;               /* background color */
+  background-image: none !important;    
   color: #bdbdbd;
   padding: 0;
   display: flex;
