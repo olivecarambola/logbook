@@ -11,7 +11,7 @@ Posts on this site may contain explicit language or explore sensitive topics suc
 
 &copy; 2025 Olive & Carambola. All rights reserved.
 
-<p class="p-narrow">The original content on this website, including but not limited to text, images, and other media, is protected by copyright law. You may not copy, distribute, modify, or otherwise use any part of this original content for any purpose without explicit written permission.</p>
+The original content on this website, including but not limited to text, images, and other media, is protected by copyright law. You may not copy, distribute, modify, or otherwise use any part of this original content for any purpose without explicit written permission.
 
 This website and its content are provided "as is," and the owner makes no representations or warranties regarding the accuracy, completeness, or legality of the content.
 This website may occasionally feature materials created by third parties. Such materials are either used with permission, under license, or believed to be permissible under applicable laws (such as fair use). All third-party content remains the property of its respective owners.
