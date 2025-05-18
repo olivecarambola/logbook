@@ -18,7 +18,7 @@ header {                                /* main top bar (logo + menu) */
   border-bottom: 1px solid #333333;     /* main top bar bottom border */
 }
 
-header .inner {
+header .inner {                     /* inside the top bar */
   width: 100%;
   margin: 0;
   padding: 12px 20px 12px 20px;     /* 12 top, 20 right, 12 bottom, 20 left */
@@ -139,7 +139,7 @@ header nav ul li a.active,               /* active menu item styling */
 
 #posts-list {
   list-style: none;
-  padding-left: 20px
+  padding-left: 20px;
   margin: 0;
 }
 
