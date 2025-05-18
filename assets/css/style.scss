@@ -63,9 +63,10 @@ header nav ul li a:hover {
 }
 
 body {                                   /* default content styling */
-  background-color: black;               /* page background black */
-  color: #f0f0f0;                        /* color off-white */
-  font-size: 16px;                       /* size 16 */
+  background-color: black;               /* background color */
+  color: #f0f0f0;                        /* text color */
+  font-size: 16px;                       /* text size */
+  line-height: 1.2;                      /* text line spacing */
   margin: 0;
   font-family: 'Nunito', sans-serif;     /* font Nunito */
 }
