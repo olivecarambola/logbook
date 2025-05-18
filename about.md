@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Disclaimer
 
-Posts on this site may contain explicit language or explore sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
+<p class="p-spaced">Posts on this site may contain explicit language or explore sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.</p>
 
 ## Copyright Notice
 
