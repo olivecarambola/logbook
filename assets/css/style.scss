@@ -4,7 +4,7 @@
 header {                                /* main top bar (logo + menu) */
   background-color: #111;               /* background color */
   background-image: none !important;    
-  color: #bdbdbd;
+  color: #bdbdbd;                       /* overridden below */
   padding: 0;
   display: flex;
   justify-content: flex-start;
@@ -14,8 +14,8 @@ header {                                /* main top bar (logo + menu) */
   z-index: 10;
   
   /* Add borders */
-  border-top: 3px solid #333333;  /* 3px top border */
-  border-bottom: 1px solid #333333;  /* 1px bottom border */
+  border-top: 3px solid #333333;        /* main top bar top border */
+  border-bottom: 1px solid #333333;     /* main top bar bottom border */
 }
 
 header .inner {
@@ -92,8 +92,7 @@ img {
   position: relative;
   z-index: 9;
 
-  /* Match the borders of the top bar */
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #333333;        /* secondary bar bottom border */
 }
 
 .secondary-bar .inner {
