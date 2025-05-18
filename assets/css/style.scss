@@ -142,6 +142,27 @@ header nav ul li a.active,               /* active menu item styling */
   margin: 0;
 }
 
-.text-body-bigger {                           /* slightly bigger body content styling */
+.text-body-bigger {                      /* slightly bigger body content styling */
   font-size: 18px;                       /* size 16 */
+}
+
+.post-title {
+  color: #bdbdbd;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Zain', sans-serif
+}
+
+.post-slash {
+  color: #f0f0f0;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Zain', sans-serif
+}
+
+.post-date {
+  color: #6b6b6b;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Zain', sans-serif
 }
