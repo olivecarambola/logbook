@@ -47,7 +47,7 @@
                   {% endcase %}
                 </span>
               </h2>
-              <button class="toggle-content" data-target="content-{{ forloop.index }}">Read more</button>
+              <button class="toggle-content" data-target="content-{{ forloop.index }}">See full</button>
               <button onclick="window.open('{{ post.url }}', '_blank')">Open in new tab</button>
               <p class="summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
               <div class="full-content" id="content-{{ forloop.index }}" style="display:none;">
@@ -71,11 +71,11 @@
         if (content.style.display === 'none') {
           content.style.display = 'block';
           summary.style.display = 'none';
-          button.textContent = 'Show less';
+          button.textContent = 'See less';
         } else {
           content.style.display = 'none';
           summary.style.display = 'block';
-          button.textContent = 'Read more';
+          button.textContent = 'See full';
         }
       });
     });
