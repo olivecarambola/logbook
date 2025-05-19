@@ -155,14 +155,23 @@ header nav ul li a.active,               /* active menu item styling */
   margin-bottom: 0;
 }
 
-#posts-list .summary,
-#posts-list .full-content {
-  margin-top: 0.35em;
-}
-
 .post-item button {
   background-color: #2E2E2E;
   color: #bdbdbd;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.post-item button:focus,
+.post-item button:active {
+  outline: none;
+  box-shadow: none;
+}
+
+#posts-list .summary,
+#posts-list .full-content {
+  margin-top: 0.35em;
 }
 
 .post-title {
