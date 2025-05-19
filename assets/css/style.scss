@@ -157,7 +157,12 @@ header nav ul li a.active,               /* active menu item styling */
 
 #posts-list .summary,
 #posts-list .full-content {
-  margin-top: 0.3em;
+  margin-top: 0.35em;
+}
+
+.post-item button {
+  background-color: #2E2E2E;
+  color: #bdbdbd;
 }
 
 .post-title {
