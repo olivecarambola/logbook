@@ -155,6 +155,11 @@ header nav ul li a.active,               /* active menu item styling */
   margin-bottom: 0;
 }
 
+#posts-list .summary,
+#posts-list .full-content {
+  margin-top: 0;
+}
+
 .post-title {
   color: #bdbdbd;
   font-size: 22px;
