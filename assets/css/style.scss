@@ -147,8 +147,12 @@ header nav ul li a.active,               /* active menu item styling */
   padding: 0;
 }
 
-.text-body-bigger {                      /* slightly bigger body content styling */
-  font-size: 18px;                       /* size 16 */
+#posts-list h2 {
+  margin-bottom: 0;
+}
+
+#posts-list button {
+  margin-bottom: 0;
 }
 
 .post-title {
@@ -159,9 +163,9 @@ header nav ul li a.active,               /* active menu item styling */
 }
 
 .post-slash {
-  color: #f0f0f0;
+  color: #8C8C8C;
   font-size: 18px;
-  font-weight: normal;
+  font-weight: bold;
   font-family: 'Nunito', sans-serif
 }
 
@@ -170,4 +174,8 @@ header nav ul li a.active,               /* active menu item styling */
   font-size: 14px;
   font-weight: normal;
   font-family: 'Nunito', sans-serif
+}
+
+.text-body-bigger {                      /* slightly bigger body content styling */
+  font-size: 18px;                       /* size 16 */
 }
