@@ -198,15 +198,17 @@ header nav ul li a.active,               /* active menu item styling */
 }
 
 .post-sep-title {
+  margin-bottom: 0.5em;
   color: #bdbdbd;
-  font-size: 22px;
+  font-size: 26px;
   font-weight: bold;
   font-family: 'Ubuntu Condensed', sans-serif
 }
 
 .post-sep-date {
+  margin-top: 0;
   color: #6b6b6b;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   font-family: 'Nunito', sans-serif
 }
