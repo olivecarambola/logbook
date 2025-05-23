@@ -28,7 +28,23 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {{ content }}
+          <article class="post-item">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-date">
+              {% assign d = post.date | date: "%-d" %}
+              {% assign m = post.date | date: "%b" %}
+              {% assign y = post.date | date: "%Y" %}
+              {% case d %}
+                {% when '1' or '21' or '31' %}{{ m }} {{ d }}st, {{ y }}
+                {% when '2' or '22' %}{{ m }} {{ d }}nd, {{ y }}
+                {% when '3' or '23' %}{{ m }} {{ d }}rd, {{ y }}
+                {% else %}{{ m }} {{ d }}th, {{ y }}
+              {% endcase %}
+            </p>
+            <div class="post-content">
+              {{ content }}
+            </div>
+          </article>
         </section>
       </div>
     </div>
