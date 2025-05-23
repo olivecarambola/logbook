@@ -28,10 +28,29 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {{ content }}
+          {% assign post = site.posts.first %}
+          <article class="post-item">
+            <h1 class="post-sep-title">{{ post.title }}</h1>
+            <p class="post-sep-date">
+              {% assign d = post.date | date: "%-d" %}
+              {% assign m = post.date | date: "%b" %}
+              {% assign y = post.date | date: "%Y" %}
+              {% if d == '1' or d == '21' or d == '31' %}
+                {{ m }} {{ d }}st, {{ y }}
+              {% elsif d == '2' or d == '22' %}
+                {{ m }} {{ d }}nd, {{ y }}
+              {% elsif d == '3' or d == '23' %}
+                {{ m }} {{ d }}rd, {{ y }}
+              {% else %}
+                {{ m }} {{ d }}th, {{ y }}
+              {% endif %}
+            </p>
+            <div class="post-content">
+              {{ post.content }}
+            </div>
+          </article>
         </section>
       </div>
     </div>
   </body>
 </html>
-
