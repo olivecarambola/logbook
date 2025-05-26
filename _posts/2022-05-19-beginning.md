@@ -5,7 +5,7 @@ date: 2022-05-19
 permalink: /posts/22-05-19-beginning/
 summary: "Guts out."
 collection: coda
-wrdcount_original:
+wrdcount_original: 95
 wrdcount_quote: 0
 wrdcount_translated: 0
 wrdcount_notes: 0
@@ -26,3 +26,7 @@ Even hopeful.
 Then, I felt anger. That's when I knew I was making my way back.  
 But you don't come back from that.  
 You come back, but to something else.
+
+![beginning in notebook pg1](/assets/images/220519_beginning1.png)
+
+![beginning in notebook pg2](/assets/images/220519_beginning2.png)
