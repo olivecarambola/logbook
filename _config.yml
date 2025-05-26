@@ -1,6 +1,8 @@
-theme: jekyll-theme-architect
-
 title: Olive & Carambola
+url: "https://olivecarambola.github.io/logbook/"
+author:
+  name: Olive Carambola
+  email: olivecarambola@gmail.com
 
 navigation:
   - title: Home
@@ -9,3 +11,8 @@ navigation:
     url: /posts/
   - title: About
     url: /about/
+
+theme: jekyll-theme-architect
+
+plugins:
+  - jekyll-seo-tag
