@@ -28,5 +28,4 @@ But you don't come back from that.
 You come back, but to something else.
 
 ![beginning in notebook pg1]({{ "/assets/images/220519_beginning1.png" | relative_url }})
-
 ![beginning in notebook pg2]({{ "/assets/images/220519_beginning2.png" | relative_url }})
