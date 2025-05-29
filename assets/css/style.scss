@@ -57,6 +57,7 @@ header nav ul li a {                     /* top bar menu items styling */
 }
 
 header nav ul li a:hover {
+  color: #f0f0f0;
   text-decoration: underline;
 }
 
@@ -67,6 +68,16 @@ body {                                   /* default content styling */
   line-height: 1.25;                      /* text line spacing */
   margin: 0;
   font-family: 'Nunito', sans-serif;     /* font Nunito */
+}
+
+body a {
+  color: #6699ff;
+  text-decoration: underline;
+}
+
+body a:hover {
+  color: #99ccff;
+  text-decoration: underline;
 }
 
 #main-content {
@@ -130,6 +141,7 @@ header nav ul li a.active,               /* active menu item styling */
 }
 
 .secondary-bar ul li a:hover {
+  color: #bdbdbd;
   text-decoration: underline;
 }
 
