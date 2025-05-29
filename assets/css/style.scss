@@ -133,6 +133,16 @@ header nav ul li a.active,               /* active menu item styling */
   text-decoration: underline;
 }
 
+body a {
+  color: #6699ff;
+  text-decoration: underline;
+}
+
+body a:hover {
+  color: #99ccff;
+  text-decoration: underline;
+}
+
 #posts-list {
   list-style: none;
   padding-left: 5px;
