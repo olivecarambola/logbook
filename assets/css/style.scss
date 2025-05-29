@@ -12,8 +12,6 @@ header {                                /* main top bar (logo + menu) */
   width: 100%;
   position: relative;
   z-index: 10;
-  
-  /* Add borders */
   border-top: 3px solid #333333;        /* main top bar top border */
   border-bottom: 1px solid #333333;     /* main top bar bottom border */
 }
@@ -91,7 +89,6 @@ img {
   width: 100%;
   position: relative;
   z-index: 9;
-
   border-bottom: 1px solid #333333;        /* secondary bar bottom border */
 }
 
