@@ -222,6 +222,13 @@ header nav ul li a.active,               /* active menu item styling */
   font-family: 'Nunito', sans-serif
 }
 
-.text-body-bigger {                      /* slightly bigger body content styling */
-  font-size: 18px;                       /* size 16 */
+.text-body-bigger {
+  font-size: 18px;
+}
+
+.text-heading-about {
+  color: #bdbdbd;
+  font-size: 20px;
+  line-height: 2;
+  font-weight: bold;
 }
