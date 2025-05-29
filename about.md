@@ -7,6 +7,8 @@ permalink: /about/
 
 Posts on this site may contain explicit language or explore sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
 
+---
+
 <span class="text-heading-about">Copyright Notice</span>
 
 &copy; 2025 Olive & Carambola. All rights reserved.
