@@ -3,11 +3,11 @@ layout: home
 title: About
 permalink: /about/
 ---
-## Disclaimer
+<span class="text-heading-about">Disclaimer</span>
 
 Posts on this site may contain explicit language or explore sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
 
-## Copyright Notice
+<span class="text-heading-about">Copyright Notice</span>
 
 &copy; 2025 Olive & Carambola. All rights reserved.
 
