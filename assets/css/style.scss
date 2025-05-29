@@ -171,7 +171,10 @@ header nav ul li a.active,               /* active menu item styling */
   box-shadow: none;
 }
 
-#posts-list .summary,
+#posts-list .summary {
+  margin-top: 0.5em;
+}
+
 #posts-list .full-content {
   margin-top: 0.35em;
 }
@@ -198,8 +201,7 @@ header nav ul li a.active,               /* active menu item styling */
 }
 
 .post-summary {
-  font-size: 0.8em;
-  margin-top: 0.5em;
+  font-size: 12px;
 }
 
 .post-sep-title {
