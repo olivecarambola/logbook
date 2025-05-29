@@ -49,7 +49,7 @@
               </h2>
               <button class="toggle-content" data-target="content-{{ forloop.index }}">See full</button>
               <button onclick="window.open('{{ post.url | relative_url }}', '_blank')">Open in new tab</button>
-              <p class="summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
+              <p class="summary post-summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
               <div class="full-content" id="content-{{ forloop.index }}" style="display:none;">
                 {{ post.content | markdownify }}
               </div>
