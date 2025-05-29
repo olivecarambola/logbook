@@ -133,16 +133,6 @@ header nav ul li a.active,               /* active menu item styling */
   text-decoration: underline;
 }
 
-body a {
-  color: #6699ff;
-  text-decoration: underline;
-}
-
-body a:hover {
-  color: #99ccff;
-  text-decoration: underline;
-}
-
 #posts-list {
   list-style: none;
   padding-left: 5px;
@@ -227,6 +217,18 @@ body a:hover {
   font-size: 16px;
   font-weight: normal;
   font-family: 'Nunito', sans-serif
+}
+
+.post-summary a,
+.post-content a {
+  color: #6699ff;
+  text-decoration: underline;
+}
+
+.post-summary a:hover,
+.post-content a:hover {
+  color: #99ccff;
+  text-decoration: underline;
 }
 
 .text-body-bigger {
