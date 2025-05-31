@@ -10,6 +10,6 @@ No AI-generated stuff here. Unless, of course, David Foster Wallace or Kurt Vonn
 
 This site is merely an attempt at organizing the things I've been writing into a digital scrapbook. I write to deal with life, not to create content. I certainly don't presume to appeal to a mainstream audience.
 
-See [About](https://olivecarambola.github.io/logbook/about/) for more fair warnings.
+Might be vulgar at times. See [About](https://olivecarambola.github.io/logbook/about/) for more fair warnings.
 
 ![home page quotes](/assets/images/homepagequote.png)
