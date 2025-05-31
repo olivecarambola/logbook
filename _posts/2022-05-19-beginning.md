@@ -5,10 +5,10 @@ date: 2022-05-19
 permalink: /posts/22-05-19-beginning/
 summary: "Guts out."
 collection: coda
-wrdcount_original: 95
+wrdcount_original: 96
 wrdcount_quote: 0
 wrdcount_translated: 0
-wrdcount_else: 1
+wrdcount_capnotes: 0
 imgcount_original: 2
 imgcount_credited: 0
 ---
