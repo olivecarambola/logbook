@@ -243,12 +243,16 @@ header nav ul li a.active,               /* active menu item styling */
   margin-bottom: 1em;
 }
 
+.text-body-annotated {
+  color: #a369a3;
+}
+
 .annotated {
-  color: #A369A3;
+  color: #a369a3;
   cursor: pointer;}
 
 .annotated:hover {
-  color: #C49CC4;
+  color: #c49cc4;
 }
 
 .annotation-box {
