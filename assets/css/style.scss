@@ -231,18 +231,6 @@ header nav ul li a.active,               /* active menu item styling */
   font-family: 'Nunito', sans-serif
 }
 
-.post-summary a,
-.post-content a {
-  color: #6699ff;
-  text-decoration: underline;
-}
-
-.post-summary a:hover,
-.post-content a:hover {
-  color: #99ccff;
-  text-decoration: underline;
-}
-
 .text-body-bigger {
   font-size: 18px;
 }
@@ -253,4 +241,25 @@ header nav ul li a.active,               /* active menu item styling */
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 1em;
+}
+
+.annotated {
+  color: #A369A3;
+  cursor: pointer;}
+
+.annotated:hover {
+  color: #C49CC4;
+}
+
+.annotation-box {
+  display: none;
+  position: absolute;
+  background: #fdfdfd;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  z-index: 999;
 }
