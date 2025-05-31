@@ -8,7 +8,7 @@ collection: coda
 wrdcount_original: 95
 wrdcount_quote: 0
 wrdcount_translated: 0
-wrdcount_notes: 0
+wrdcount_else: 1
 imgcount_original: 2
 imgcount_credited: 0
 ---
