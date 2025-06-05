@@ -52,6 +52,7 @@
               <p class="summary post-summary" id="summary-{{ forloop.index }}">{{ post.summary }}</p>
               <div class="full-content" id="content-{{ forloop.index }}" style="display:none;">
                 {{ post.content | markdownify }}
+                <button class="see-less-bottom" data-target="content-{{ forloop.index }}" style="display:none;">See less</button>
               </div>
             </li>
             {% endfor %}
@@ -62,59 +63,74 @@
     </div>
 
     <script>
-    document.querySelectorAll('.toggle-content').forEach(button => {
-      button.addEventListener('click', () => {
-        const targetId = button.getAttribute('data-target');
-        const content = document.getElementById(targetId);
-        const summary = document.getElementById(targetId.replace('content', 'summary'));
-
-        if (content.style.display === 'none') {
-          content.style.display = 'block';
-          summary.style.display = 'none';
-          button.textContent = 'See less';
-        } else {
-          content.style.display = 'none';
-          summary.style.display = 'block';
-          button.textContent = 'See full';
-        }
-      });
-    });
-
-    document.addEventListener("DOMContentLoaded", function () {
-      document.querySelectorAll(".annotated").forEach(el => {
-        el.addEventListener("click", function (e) {
-          let existing = document.querySelector(".annotation-box");
-          if (existing) existing.remove();
-
-          const box = document.createElement("div");
-          box.className = "annotation-box";
-          box.innerText = el.dataset.note;
-
-          document.body.appendChild(box);
-          const rect = el.getBoundingClientRect();
-          box.style.left = `${rect.left + window.scrollX}px`;
-          box.style.top = `${rect.bottom + window.scrollY + 5}px`;
-          box.style.display = "block";
-
-          const removeBox = () => {
-            box.remove();
-            document.removeEventListener("click", outsideClick);
-          };
-
-          const outsideClick = (e2) => {
-            if (!box.contains(e2.target) && !el.contains(e2.target)) {
-              removeBox();
-            }
-          };
-
-          setTimeout(() => {
-            document.addEventListener("click", outsideClick);
-          }, 10);
+      document.querySelectorAll('.toggle-content').forEach(button => {
+        button.addEventListener('click', () => {
+          const targetId = button.getAttribute('data-target');
+          const content = document.getElementById(targetId);
+          const summary = document.getElementById(targetId.replace('content', 'summary'));
+          
+          if (content.style.display === 'none') {
+            content.style.display = 'block';
+            summary.style.display = 'none';
+            button.textContent = 'See less';
+            const bottomBtn = content.querySelector('.see-less-bottom');
+            if (bottomBtn) bottomBtn.style.display = 'inline-block';
+          } else {
+            content.style.display = 'none';
+            summary.style.display = 'block';
+            button.textContent = 'See full';
+          }
         });
       });
-    });
       
+      document.querySelectorAll('.see-less-bottom').forEach(button => {
+        button.addEventListener('click', () => {
+          const targetId = button.getAttribute('data-target');
+          const content = document.getElementById(targetId);
+          const summary = document.getElementById(targetId.replace('content', 'summary'));
+          const topButton = document.querySelector(`.toggle-content[data-target="${targetId}"]`);
+          
+          content.style.display = 'none';
+          summary.style.display = 'block';
+          if (topButton) topButton.textContent = 'See full';
+          button.style.display = 'none';
+        });
+      });
+      
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll(".annotated").forEach(el => {
+          el.addEventListener("click", function (e) {
+            let existing = document.querySelector(".annotation-box");
+            if (existing) existing.remove();
+            
+            const box = document.createElement("div");
+            box.className = "annotation-box";
+            box.innerText = el.dataset.note;
+            
+            document.body.appendChild(box);
+            const rect = el.getBoundingClientRect();
+            box.style.left = `${rect.left + window.scrollX}px`;
+            box.style.top = `${rect.bottom + window.scrollY + 5}px`;
+            box.style.display = "block";
+            
+            const removeBox = () => {
+              box.remove();
+              document.removeEventListener("click", outsideClick);
+            };
+            
+            const outsideClick = (e2) => {
+              if (!box.contains(e2.target) && !el.contains(e2.target)) {
+                removeBox();
+              }
+            };
+            
+            setTimeout(() => {
+              document.addEventListener("click", outsideClick);
+            }, 10);
+          });
+        });
+      });
     </script>
-
+  
   </body>
 </html>
