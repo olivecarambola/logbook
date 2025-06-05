@@ -258,11 +258,12 @@ header nav ul li a.active,               /* active menu item styling */
 }
 
 .annotated {
-  color: #a369a3;
+  color: #c49cc4;
   cursor: pointer;}
 
 .annotated:hover {
   color: #c49cc4;
+  text-decoration: underline;
 }
 
 .annotation-box {
