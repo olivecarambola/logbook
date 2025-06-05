@@ -17,6 +17,9 @@ Red hair
 Green eyes  
 He doesn't care*
 
+<img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="max-width: 500px; width: 100%; height: auto;">
+<span class="text-body-credit">Adapted from "Möbius Structure of Relationships" from *Arboretum* by David Byrne, 2006, via [The Marginalian](https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/).</span>
+
 **Eden** `|` **May**
 
 I like that sometimes you smile, even laugh to yourself, because you simply feel good. It's delightful when you giggle intermittently for the better part of an hour because you've just seen something you find hilarious. It's nice that you can be perfectly comfortable not talking for long stretches of time while driving and just listening to music, and I appreciate that you don't look annoyed when I start talking while you do that, even though it must get annoying sometimes. It's pretty cool how much you value and enjoy the company of your friends, the way that most of us did when we were kids, but forgot how to over time. I like that in a minor crisis, say, when my blood pressure drops or I get nauseated, you don't waste time and do what needs to be done, calmly and effectively. And that you don't hover when I go off and do whatever I need to do to take care of myself. Most people don't believe that I can.
@@ -69,5 +72,3 @@ and go fuck yourself.
 **Void** `|` **March**
 
 A black hole for care. Doesn't appreciate it. Doesn't return it. But keeps demanding it. I've exhausted the words and yet the feeling remains. There's no explaining it away, no ways around it, no skipping it, no shortcuts. I can't will myself into accepting it. It's inexplicable, unreasonable, and unacceptable. This blackhole will just have to stay where it nested in my psyche for as long as it pleases, bleeding me dry out of my strength. It will stop only when it scabs. And there's nothing I can do until it does.
-
-<img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="max-width: 500px; width: 100%; height: auto;">
