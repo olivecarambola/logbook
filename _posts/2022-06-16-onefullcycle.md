@@ -12,9 +12,9 @@ wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 1
 ---
-*Red car
-Red hair
-Green eyes
+*Red car  
+Red hair  
+Green eyes  
 He doesn't care*
 
 **Eden | May**
