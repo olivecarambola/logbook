@@ -18,7 +18,8 @@ Green eyes
 He doesn't care*
 
 <img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="max-width: 500px; width: 100%; height: auto;">
-<span class="text-body-credit">Adapted from "Möbius Structure of Relationships" from *Arboretum* by David Byrne, 2006, via [The Marginalian](https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/).</span>
+
+<span class="text-body-credit">Adapted from "Möbius Structure of Relationships" from *Arboretum* by David Byrne, 2006, via [The Marginalian](https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/).</span>  
 
 **Eden** `|` **May**
 
