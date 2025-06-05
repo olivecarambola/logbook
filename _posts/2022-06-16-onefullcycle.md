@@ -8,14 +8,14 @@ collection: "coda"
 wrdcount_original: 982
 wrdcount_quote: 10
 wrdcount_translated: 25
-wrdcount_capnotes: 56
+wrdcount_capnotes: 55
 imgcount_original: 0
 imgcount_credited: 1
 ---
 
 <img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="max-width: 500px; width: 100%; height: auto;">
 
-<span class="text-body-credit">Adapted from "Möbius Structure of Relationships" from *Arboretum* by David Byrne, 2006, via [The Marginalian](https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/).</span>
+<span class="text-body-credit">Adapted from "Möbius Structure of Relationships", *Arboretum* by David Byrne, 2006, via [The Marginalian](https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/).</span>
 
 *Red car  
 Red hair  
