@@ -12,4 +12,4 @@ This site is merely an attempt at organizing the things I've been writing into a
 
 Might be vulgar at times. See [About](https://olivecarambola.github.io/logbook/about/) for more fair warnings.
 
-![home page quotes](/assets/images/homepagequote.png)
+<img src="{{ '/assets/images/homepagequote.png' | relative_url }}" alt="home page quotes" style="max-width: 500px; width: 100%; height: auto;">
