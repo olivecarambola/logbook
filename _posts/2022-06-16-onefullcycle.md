@@ -5,9 +5,9 @@ date: 2022-06-16
 permalink: /posts/22-06-16-onefullcycle/
 summary: "A lamb heading for the slaughterhouse."
 collection: "coda"
-wrdcount_original: 0
-wrdcount_quote: 0
-wrdcount_translated: 0
+wrdcount_original: 982
+wrdcount_quote: 10
+wrdcount_translated: 25
 wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 1
@@ -69,3 +69,5 @@ and go fuck yourself.
 **Void** `|` **March**
 
 A black hole for care. Doesn't appreciate it. Doesn't return it. But keeps demanding it. I've exhausted the words and yet the feeling remains. There's no explaining it away, no ways around it, no skipping it, no shortcuts. I can't will myself into accepting it. It's inexplicable, unreasonable, and unacceptable. This blackhole will just have to stay where it nested in my psyche for as long as it pleases, bleeding me dry out of my strength. It will stop only when it scabs. And there's nothing I can do until it does.
+
+<img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="max-width: 500px; width: 100%; height: auto;">
