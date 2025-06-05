@@ -12,11 +12,11 @@ wrdcount_capnotes: 15
 imgcount_original: 0
 imgcount_credited: 0
 ---
-Don't cry, Hıdrellez  
+<span class="text-body-quote">Don't cry, Hıdrellez  
 Don't you cry for me  
 I sowed seeds of pain  
 Love will sprout  
 It will sprout  
-Another spring
+Another spring</span>
 
-Translated lyrics of *Hıdrellez* by Sezen Aksu, from the album "Düğün ve Cenaze", 1997.
+<span class="text-body-credit">Translated lyrics of *Hıdrellez* by Sezen Aksu, from the album "Düğün ve Cenaze", 1997.</span>
