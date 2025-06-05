@@ -17,7 +17,7 @@ Red hair
 Green eyes  
 He doesn't care*
 
-**Eden** `|` **May**
+**Eden**`|`**May**
 
 I like that sometimes you smile, even laugh to yourself, because you simply feel good. It's delightful when you giggle intermittently for the better part of an hour because you've just seen something you find hilarious. It's nice that you can be perfectly comfortable not talking for long stretches of time while driving and just listening to music, and I appreciate that you don't look annoyed when I start talking while you do that, even though it must get annoying sometimes. It's pretty cool how much you value and enjoy the company of your friends, the way that most of us did when we were kids, but forgot how to over time. I like that in a minor crisis, say, when my blood pressure drops or I get nauseated, you don't waste time and do what needs to be done, calmly and effectively. And that you don't hover when I go off and do whatever I need to do to take care of myself. Most people don't believe that I can.
 
