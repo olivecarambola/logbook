@@ -89,18 +89,5 @@
     });
     </script>
 
-    <nav class="post-navigation">
-      {% if page.previous %}
-        <a href="{{ page.previous.url | relative_url }}" class="nav-button newer">
-          <img src="{{ '/assets/images/postnav_newer.png' | relative_url }}" alt="Newer Post">
-        </a>
-      {% endif %}
-      {% if page.next %}
-        <a href="{{ page.next.url | relative_url }}" class="nav-button older">
-          <img src="{{ '/assets/images/postnav_older.png' | relative_url }}" alt="Older Post">
-        </a>
-      {% endif %}
-    </nav>
-
   </body>
 </html>
