@@ -24,10 +24,10 @@
         </ul>
       </div>
     </nav>
+
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {% assign post = site.posts.first %}
           <article class="post-item">
             <div class="post-header-with-nav">
               <div>
@@ -47,7 +47,6 @@
                   {% endif %}
                 </p>
               </div>
-
               <nav class="post-navigation">
                 {% if page.next %}
                   <a href="{{ page.next.url | relative_url }}" class="nav-button newer">
@@ -61,49 +60,49 @@
                 {% endif %}
               </nav>
             </div>
+
             <div class="post-content">
-              {{ post.content }}
+              {{ content }}
             </div>
-            
-          </article>
+          </article>          
         </section>
       </div>
     </div>
 
     <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      document.querySelectorAll(".annotated").forEach(el => {
-        el.addEventListener("click", function (e) {
-          let existing = document.querySelector(".annotation-box");
-          if (existing) existing.remove();
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll(".annotated").forEach(el => {
+          el.addEventListener("click", function (e) {
+            let existing = document.querySelector(".annotation-box");
+            if (existing) existing.remove();
 
-          const box = document.createElement("div");
-          box.className = "annotation-box";
-          box.innerText = el.dataset.note;
+            const box = document.createElement("div");
+            box.className = "annotation-box";
+            box.innerText = el.dataset.note;
 
-          document.body.appendChild(box);
-          const rect = el.getBoundingClientRect();
-          box.style.left = `${rect.left + window.scrollX}px`;
-          box.style.top = `${rect.bottom + window.scrollY + 5}px`;
-          box.style.display = "block";
+            document.body.appendChild(box);
+            const rect = el.getBoundingClientRect();
+            box.style.left = ${rect.left + window.scrollX}px;
+            box.style.top = ${rect.bottom + window.scrollY + 5}px;
+            box.style.display = "block";
 
-          const removeBox = () => {
-            box.remove();
-            document.removeEventListener("click", outsideClick);
-          };
+            const removeBox = () => {
+              box.remove();
+              document.removeEventListener("click", outsideClick);
+            };
 
-          const outsideClick = (e2) => {
-            if (!box.contains(e2.target) && !el.contains(e2.target)) {
-              removeBox();
-            }
-          };
+            const outsideClick = (e2) => {
+              if (!box.contains(e2.target) && !el.contains(e2.target)) {
+                removeBox();
+              }
+            };
 
-          setTimeout(() => {
-            document.addEventListener("click", outsideClick);
-          }, 10);
+            setTimeout(() => {
+              document.addEventListener("click", outsideClick);
+            }, 10);
+          });
         });
       });
-    });
     </script>
 
   </body>
