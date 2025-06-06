@@ -30,21 +30,23 @@
           {% assign post = site.posts.first %}
           <article class="post-item">
             <div class="post-header-with-nav">
-              <h1 class="post-sep-title">{{ post.title }}</h1>
-              <p class="post-sep-date">
-                {% assign d = post.date | date: "%-d" %}
-                {% assign m = post.date | date: "%b" %}
-                {% assign y = post.date | date: "%Y" %}
-                {% if d == '1' or d == '21' or d == '31' %}
-                  {{ m }} {{ d }}st, {{ y }}
-                {% elsif d == '2' or d == '22' %}
-                  {{ m }} {{ d }}nd, {{ y }}
-                {% elsif d == '3' or d == '23' %}
-                  {{ m }} {{ d }}rd, {{ y }}
-                {% else %}
-                  {{ m }} {{ d }}th, {{ y }}
-                {% endif %}
-              </p>
+              <div class="post-title-and-date">
+                <h1 class="post-sep-title">{{ post.title }}</h1>
+                <p class="post-sep-date">
+                  {% assign d = post.date | date: "%-d" %}
+                  {% assign m = post.date | date: "%b" %}
+                  {% assign y = post.date | date: "%Y" %}
+                  {% if d == '1' or d == '21' or d == '31' %}
+                    {{ m }} {{ d }}st, {{ y }}
+                  {% elsif d == '2' or d == '22' %}
+                    {{ m }} {{ d }}nd, {{ y }}
+                  {% elsif d == '3' or d == '23' %}
+                    {{ m }} {{ d }}rd, {{ y }}
+                  {% else %}
+                    {{ m }} {{ d }}th, {{ y }}
+                  {% endif %}
+                </p>
+              </div>
               <nav class="post-navigation">
                 {% assign posts = site.posts %}
                 {% assign current_post = posts.first %}
