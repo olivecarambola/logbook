@@ -6,9 +6,9 @@ permalink: /posts/22-09-21-hidrellez/
 summary: "Sezen Aksu, 1997."
 collection: "coda"
 wrdcount_original: 0
-wrdcount_quote: 0
+wrdcount_quote: 13
 wrdcount_translated: 21
-wrdcount_capnotes: 15
+wrdcount_capnotes: 11
 imgcount_original: 0
 imgcount_credited: 0
 ---
