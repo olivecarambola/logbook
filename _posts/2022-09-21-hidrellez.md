@@ -14,11 +14,12 @@ imgcount_credited: 0
 ---
 | | | |
 |-|-|-|
-|<span class="text-body-qtdark">Don’t cry, Hıdrellez</span>| |<span class="text-body-quote">Ağlama hıdrellez</span>|
-|<span class="text-body-qtdark">Don’t you cry for me</span>| |<span class="text-body-quote">Ağlama be bana</span>|
-|<span class="text-body-qtdark">I sowed seeds of pain</span>| |<span class="text-body-quote">Acı ektim yerine</span>|
-|<span class="text-body-qtdark">Love will sprout</span>| |<span class="text-body-quote">Aşk yeşerecek</span>|
-|<span class="text-body-qtdark">It will sprout</span>| |<span class="text-body-quote">Yeşerecek</span>|
-|<span class="text-body-qtdark">Another spring</span>| |<span class="text-body-quote">Başka bahara</span>|
-|<span class="text-body-credit">"Hıdrellez" by Sezen Aksu, from the album "Düğün ve Cenaze", 1997.</span>| | |
+|<span class="text-body-quote">Don’t cry, Hıdrellez</span>| |<span class="text-body-qtdark">Ağlama hıdrellez</span>|
+|<span class="text-body-quote">Don’t you cry for me</span>| |<span class="text-body-qtdark">Ağlama be bana</span>|
+|<span class="text-body-quote">I sowed seeds of pain</span>| |<span class="text-body-qtdark">Acı ektim yerine</span>|
+|<span class="text-body-quote">Love will sprout</span>| |<span class="text-body-qtdark">Aşk yeşerecek</span>|
+|<span class="text-body-quote">It will sprout</span>| |<span class="text-body-qtdark">Yeşerecek</span>|
+|<span class="text-body-quote">Another spring</span>| |<span class="text-body-qtdark">Başka bahara</span>|
+
+<span class="text-body-credit">"Hıdrellez" by Sezen Aksu, from the album "Düğün ve Cenaze", 1997.</span>
 
