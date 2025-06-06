@@ -29,21 +29,38 @@
       <div class="inner clearfix">
         <section id="main-content">
           <article class="post-item">
-            <h1 class="post-sep-title">{{ page.title }}</h1>
-            <p class="post-sep-date">
-              {% assign d = page.date | date: "%-d" %}
-              {% assign m = page.date | date: "%b" %}
-              {% assign y = page.date | date: "%Y" %}
-              {% if d == '1' or d == '21' or d == '31' %}
-                {{ m }} {{ d }}st, {{ y }}
-              {% elsif d == '2' or d == '22' %}
-                {{ m }} {{ d }}nd, {{ y }}
-              {% elsif d == '3' or d == '23' %}
-                {{ m }} {{ d }}rd, {{ y }}
-              {% else %}
-                {{ m }} {{ d }}th, {{ y }}
-              {% endif %}
-            </p>
+            <div class="post-header-with-nav">
+              <div>
+                <h1 class="post-sep-title">{{ page.title }}</h1>
+                <p class="post-sep-date">
+                  {% assign d = page.date | date: "%-d" %}
+                  {% assign m = page.date | date: "%b" %}
+                  {% assign y = page.date | date: "%Y" %}
+                  {% if d == '1' or d == '21' or d == '31' %}
+                    {{ m }} {{ d }}st, {{ y }}
+                  {% elsif d == '2' or d == '22' %}
+                    {{ m }} {{ d }}nd, {{ y }}
+                  {% elsif d == '3' or d == '23' %}
+                    {{ m }} {{ d }}rd, {{ y }}
+                  {% else %}
+                    {{ m }} {{ d }}th, {{ y }}
+                  {% endif %}
+                </p>
+              </div>
+              <nav class="post-navigation">
+                {% if page.next %}
+                  <a href="{{ page.next.url | relative_url }}" class="nav-button newer">
+                    <img src="{{ '/assets/images/postnav_newer.png' | relative_url }}" alt="Newer Post">
+                  </a>
+                {% endif %}
+                {% if page.previous %}
+                  <a href="{{ page.previous.url | relative_url }}" class="nav-button older">
+                    <img src="{{ '/assets/images/postnav_older.png' | relative_url }}" alt="Older Post">
+                  </a>
+                {% endif %}
+              </nav>
+            </div>
+
             <div class="post-content">
               {{ content }}
             </div>
@@ -87,19 +104,6 @@
         });
       });
     </script>
-
-    <nav class="post-navigation">
-      {% if page.next %}
-        <a href="{{ page.next.url | relative_url }}" class="nav-button newer">
-          <img src="{{ '/assets/images/postnav_newer.png' | relative_url }}" alt="Newer Post">
-        </a>
-      {% endif %}
-      {% if page.previous %}
-        <a href="{{ page.previous.url | relative_url }}" class="nav-button older">
-          <img src="{{ '/assets/images/postnav_older.png' | relative_url }}" alt="Older Post">
-        </a>
-      {% endif %}
-    </nav>
 
   </body>
 </html>
