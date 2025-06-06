@@ -51,9 +51,11 @@
 
             <nav class="post-navigation">
               {% assign posts = site.posts %}
+              {% assign current_post = posts.first %}
               {% assign current_index = nil %}
+
               {% for p in posts %}
-                {% if p.url == post.url %}
+                {% if p.url == current_post.url %}
                   {% assign current_index = forloop.index0 %}
                   {% break %}
                 {% endif %}
@@ -64,14 +66,14 @@
                 {% assign next_index = current_index | plus: 1 %}
 
                 {% if next_index < posts.size %}
-                  <a href="{{ posts[next_index].url | relative_url }}" class="nav-button newer">
-                    <img src="{{ '/assets/images/newer.png' | relative_url }}" alt="Newer Post">
+                  <a href="{{ posts[next_index].url | relative_url }}" class="nav-button older">
+                    <img src="{{ '/assets/images/postnav_older.png' | relative_url }}" alt="Older Post">
                   </a>
                 {% endif %}
 
                 {% if prev_index >= 0 %}
-                  <a href="{{ posts[prev_index].url | relative_url }}" class="nav-button older">
-                    <img src="{{ '/assets/images/older.png' | relative_url }}" alt="Older Post">
+                  <a href="{{ posts[prev_index].url | relative_url }}" class="nav-button newer">
+                    <img src="{{ '/assets/images/postnav_newer.png' | relative_url }}" alt="Newer Post">
                   </a>
                 {% endif %}
               {% endif %}
