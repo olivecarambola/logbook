@@ -51,7 +51,6 @@ Humanity needs to end, now. If not for what we did to earth, or what we did to o
 It all felt so pink at that moment.
 
 It was a brilliant stroke of luck that I was in the company of friends, but didn't have to talk to them, and I got to choose the music but didn't have to worry about whether they liked it or not. I just laid on the hammock, high in the sky, swinging softly, listening to the songs that took me down memory lane, and I indulged myself in remembering our time together, thinking about you, and feeling the love. I did nothing else for a while.
-
 | | | |
 |-|-|-|
 |<span class="text-body-qtdark">Kar yağıyor bu gece</span>| |<span class="text-body-quote">It's snowing tonight  </span>|
