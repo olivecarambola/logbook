@@ -58,6 +58,7 @@ It was a brilliant stroke of luck that I was in the company of friends, but didn
 |<span class="text-body-qtdark">Öyle beyaz ki şehir</span>| |<span class="text-body-quote">The city is so white  </span>|
 |<span class="text-body-qtdark">Anlamak bir ömür sürer</span>| |<span class="text-body-quote">It takes a lifetime to fathom  </span>|
 |<span class="text-body-qtdark">Hayat niye kirlenir</span>| |<span class="text-body-quote">Why life has to get sullied with mud</span>|
+
 </span> <span class="text-body-credit">— Leyla</span><span class="annotated" data-note="By Ezginin Günlüğü, from the album ''Aşk Yüzünden'', 1998.">*</span>
 
 **Collapse** `|` **October**
