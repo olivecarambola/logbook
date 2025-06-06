@@ -52,10 +52,13 @@ It all felt so pink at that moment.
 
 It was a brilliant stroke of luck that I was in the company of friends, but didn't have to talk to them, and I got to choose the music but didn't have to worry about whether they liked it or not. I just laid on the hammock, high in the sky, swinging softly, listening to the songs that took me down memory lane, and I indulged myself in remembering our time together, thinking about you, and feeling the love. I did nothing else for a while.
 
-<span class="annotated" data-note="Translated lyrics of ''Leyla'' by Ezginin Günlüğü, from the album ''Aşk Yüzünden'', 1998.">It's snowing tonight  
-The city is so white  
-It takes a lifetime to fathom  
-Why life has to get sullied with mud</span>
+| | | |
+|-|-|-|
+|<span class="text-body-qtdark">Kar yağıyor bu gece</span>| |<span class="text-body-quote">It's snowing tonight  </span>|
+|<span class="text-body-qtdark">Öyle beyaz ki şehir</span>| |<span class="text-body-quote">The city is so white  </span>|
+|<span class="text-body-qtdark">Anlamak bir ömür sürer</span>| |<span class="text-body-quote">It takes a lifetime to fathom  </span>|
+|<span class="text-body-qtdark">Hayat niye kirlenir</span>| |<span class="text-body-quote">Why life has to get sullied with mud</span>|
+</span> <span class="text-body-credit">— Leyla</span><span class="annotated" data-note="By Ezginin Günlüğü, from the album ''Aşk Yüzünden'', 1998.">*</span>
 
 **Collapse** `|` **October**
 
