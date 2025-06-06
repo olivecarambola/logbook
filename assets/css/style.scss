@@ -231,6 +231,45 @@ header nav ul li a.active,               /* active menu item styling */
   font-family: 'Nunito', sans-serif
 }
 
+.post-header-with-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* title+date on left, nav on right */
+  gap: 1rem; /* space between title/date block and nav */
+}
+
+/* Make title and date group together on the left */
+.post-sep-title,
+.post-sep-date {
+  margin: 0;
+  /* optional: stack vertically */
+  display: block;
+}
+
+/* Navigation container aligns buttons horizontally */
+.post-navigation {
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* The buttons are anchors with images */
+.post-navigation .nav-button {
+  display: inline-block;
+  width: 16px;  /* about 10 times smaller than default ~160px? */
+  height: 16px;
+  cursor: pointer;
+}
+
+/* Make images fill the button container */
+.post-navigation .nav-button img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* If only one button, flush right naturally */
+/* No extra rules needed as flex pushes nav to right */
+
 .text-body-bigger {
   font-size: 18px;
 }
