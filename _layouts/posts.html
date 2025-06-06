@@ -15,12 +15,29 @@
 
   <body>
     {% include header.html %}
+    {% assign url = page.url | downcase %}
+    {% assign layout = page.layout | downcase %}
     <nav class="secondary-bar">
       <div class="inner">
         <ul>
-          <li><a href="{{ '/posts/leaf/' | relative_url }}" class="{% if page.url == '/posts/leaf/' %}active{% endif %}">Leaf through</a></li>
-          <li><a href="{{ '/posts/all/' | relative_url }}" class="{% if page.url == '/posts/all/' %}active{% endif %}">All titles</a></li>
-          <li><a href="{{ '/posts/search/' | relative_url }}" class="{% if page.url == '/posts/search/' %}active{% endif %}">Search</a></li>
+          <li>
+            <a href="{{ '/posts/leaf/' | relative_url }}"
+               class="{% if url == '/posts/leaf/' or (layout == 'posts' and url != '/posts/all/' and url != '/posts/search/' and url != '/posts/leaf/') %}active{% endif %}">
+              Leaf through
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/posts/all/' | relative_url }}"
+               class="{% if url == '/posts/all/' %}active{% endif %}">
+              All titles
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/posts/search/' | relative_url }}"
+               class="{% if url == '/posts/search/' %}active{% endif %}">
+              Search
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
