@@ -7,9 +7,8 @@ This is a minimalist, content-focused personal site built using [GitHub Pages](h
 - `index.html` / `home.html` – Home page, summarizing the intent of the site
 - `about.md` – Disclaimer, copyright notice, and contact email
 - `_posts/` – All content posts in Markdown
-- `post_last.md`, `post_all.md`, `post_search.md` – Pages for navigating posts
+- `post_leaf.md`, `post_all.md`, `post_search.md` – Pages for navigating posts
 - Custom layouts:
-  - `lastpost.html` – Shows most recent post
   - `allposts.html` – Lists all post titles with summary toggle
   - `searchposts.html` – (WIP) Search interface
   - `posts.html` – Post detail view
