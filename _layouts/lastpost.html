@@ -28,81 +28,65 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+          {% assign post = site.posts.first %}
           <article class="post-item">
-            <div class="post-header-with-nav">
-              <div>
-                <h1 class="post-sep-title">{{ page.title }}</h1>
-                <p class="post-sep-date">
-                  {% assign d = page.date | date: "%-d" %}
-                  {% assign m = page.date | date: "%b" %}
-                  {% assign y = page.date | date: "%Y" %}
-                  {% if d == '1' or d == '21' or d == '31' %}
-                    {{ m }} {{ d }}st, {{ y }}
-                  {% elsif d == '2' or d == '22' %}
-                    {{ m }} {{ d }}nd, {{ y }}
-                  {% elsif d == '3' or d == '23' %}
-                    {{ m }} {{ d }}rd, {{ y }}
-                  {% else %}
-                    {{ m }} {{ d }}th, {{ y }}
-                  {% endif %}
-                </p>
-              </div>
-              <nav class="post-navigation">
-                {% if page.next %}
-                  <a href="{{ page.next.url | relative_url }}" class="nav-button newer">
-                    <img src="{{ '/assets/images/postnav_newer.png' | relative_url }}" alt="Newer Post">
-                  </a>
-                {% endif %}
-                {% if page.previous %}
-                  <a href="{{ page.previous.url | relative_url }}" class="nav-button older">
-                    <img src="{{ '/assets/images/postnav_older.png' | relative_url }}" alt="Older Post">
-                  </a>
-                {% endif %}
-              </nav>
-            </div>
-
+            <h1 class="post-sep-title">{{ post.title }}</h1>
+            <p class="post-sep-date">
+              {% assign d = post.date | date: "%-d" %}
+              {% assign m = post.date | date: "%b" %}
+              {% assign y = post.date | date: "%Y" %}
+              {% if d == '1' or d == '21' or d == '31' %}
+                {{ m }} {{ d }}st, {{ y }}
+              {% elsif d == '2' or d == '22' %}
+                {{ m }} {{ d }}nd, {{ y }}
+              {% elsif d == '3' or d == '23' %}
+                {{ m }} {{ d }}rd, {{ y }}
+              {% else %}
+                {{ m }} {{ d }}th, {{ y }}
+              {% endif %}
+            </p>
             <div class="post-content">
-              {{ content }}
+              {{ post.content }}
             </div>
-          </article>          
+          </article>
         </section>
       </div>
     </div>
 
     <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll(".annotated").forEach(el => {
-          el.addEventListener("click", function (e) {
-            let existing = document.querySelector(".annotation-box");
-            if (existing) existing.remove();
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll(".annotated").forEach(el => {
+        el.addEventListener("click", function (e) {
+          let existing = document.querySelector(".annotation-box");
+          if (existing) existing.remove();
 
-            const box = document.createElement("div");
-            box.className = "annotation-box";
-            box.innerText = el.dataset.note;
+          const box = document.createElement("div");
+          box.className = "annotation-box";
+          box.innerText = el.dataset.note;
 
-            document.body.appendChild(box);
-            const rect = el.getBoundingClientRect();
-            box.style.left = ${rect.left + window.scrollX}px;
-            box.style.top = ${rect.bottom + window.scrollY + 5}px;
-            box.style.display = "block";
+          document.body.appendChild(box);
+          const rect = el.getBoundingClientRect();
+          box.style.left = ${rect.left + window.scrollX}px;
+          box.style.top = ${rect.bottom + window.scrollY + 5}px;
+          box.style.display = "block";
 
-            const removeBox = () => {
-              box.remove();
-              document.removeEventListener("click", outsideClick);
-            };
+          const removeBox = () => {
+            box.remove();
+            document.removeEventListener("click", outsideClick);
+          };
 
-            const outsideClick = (e2) => {
-              if (!box.contains(e2.target) && !el.contains(e2.target)) {
-                removeBox();
-              }
-            };
+          const outsideClick = (e2) => {
+            if (!box.contains(e2.target) && !el.contains(e2.target)) {
+              removeBox();
+            }
+          };
 
-            setTimeout(() => {
-              document.addEventListener("click", outsideClick);
-            }, 10);
-          });
+          setTimeout(() => {
+            document.addEventListener("click", outsideClick);
+          }, 10);
         });
       });
+    });
     </script>
 
   </body>
