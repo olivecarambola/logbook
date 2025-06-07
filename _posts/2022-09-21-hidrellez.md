@@ -21,7 +21,7 @@ imgcount_credited: 0
 |<span class="text-body-quote">It will sprout</span>| |<span class="text-body-qtdark">Yeşerecek</span>|
 |<span class="text-body-quote">Another spring</span>| |<span class="text-body-qtdark">Başka bahara</span>|
 
-<span class="text-body-credit">Lyrics from the Sezen Aksu song *Hıdrellez*, which is the Turkish adaptation of *Ederlezi*, the soundtrack by Goran Bregović to the 1988 film *Time of the Gypsies*.  
+<span class="text-body-credit">Lyrics from the Sezen Aksu song *Hıdrellez*, which is the Turkish adaptation of *Ederlezi*, the soundtrack by Goran Bregović to the 1988 film *Time of the Gypsies*.</span>  
 
-Hıdırellez is a folk holiday that celebrates the arrival of spring. Ederlezi, which is the Romani name for the Feast of Saint George, is an adaptation of "hıdırellez" into local phonology.</span>
+<span class="text-body-credit">Hıdırellez is a folk holiday that celebrates the arrival of spring. Ederlezi, which is the Romani name for the Feast of Saint George, is an adaptation of "hıdırellez" into local phonology.</span>
 
