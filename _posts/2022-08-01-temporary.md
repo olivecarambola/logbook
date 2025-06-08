@@ -5,7 +5,7 @@ date: 2022-08-01
 permalink: /posts/22-08-01-temporary/
 summary: "Never meant to stay."
 collection: "coda"
-wrdcount_original: 113
+wrdcount_original: 112
 wrdcount_quote: 0
 wrdcount_translated: 0
 wrdcount_capnotes: 0
