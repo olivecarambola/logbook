@@ -5,7 +5,7 @@ date: 2022-06-16
 permalink: /posts/22-06-16-onefullcycle/
 summary: "A lamb heading for the slaughterhouse."
 collection: "coda"
-wrdcount_original: 982
+wrdcount_original: 979
 wrdcount_quote: 10
 wrdcount_translated: 25
 wrdcount_capnotes: 70
