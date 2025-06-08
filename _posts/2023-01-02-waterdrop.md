@@ -5,7 +5,7 @@ date: 2023-01-02
 permalink: /posts/23-01-02-waterdrop/
 summary: "Plants potted in anything but pots, string lights, and music."
 collection: "coda"
-wrdcount_original: 0
+wrdcount_original: 3875
 wrdcount_quote: 24
 wrdcount_translated: 0
 wrdcount_capnotes: 8
