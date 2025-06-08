@@ -34,11 +34,11 @@ And that's what I'm contemplating tonight. I've got my feet up on the windowsill
 
 Being the pride and joy of the same two parents, it's confounding how fundamentally different our lives turned out so far, and how much we've covered between the two of us - how many hemispheres, how many countries, how many languages, how many careers, how many types of intelligence, how many roles, how much struggling, how much strength, how much wisdom, how much love. Put together, we've lived so many lifetimes' worth. With the two of us, nothing essential lacks. Maybe that's why when I tell people about you, I say that you're my other half. It seems as if I change my mind about what I want every other day, I know, but there are still things of which I'm certain, and dreams that I'll never give up. I think about sharing with each other and Isa, all that we collected in our respective corners. I think of us watching her grow up to be a strong, smart, sensitive, courageous, well-rounded individual with the best of both of our qualities. I imagine the neighborhoods we would live in, the walks we could take through beautiful streets, a piece of red velvet and a nice cup of tea we might treat ourselves to on Tuesday afternoons. I wonder what new things we'll get into the habit of doing together, what crises we'll get through with each other's support, what occasions we'll celebrate, what crazy but eventually insignificant fights we'll have, what reasons we'll call each other in the middle of the night for. I hope that one day, soon, we'll lean on each other again for anything and everything that matters, knowing that the other one is within walking distance, in case anything happens. Like we used to do most of our lives before all the craziness.
 
-<span class="text-body-quote">"And after all's  
+<span class="text-body-quote">And after all's  
 Been said and done  
 Who said it best  
 Were you the one?  
 Let's just forget  
 Leave it behind  
-And carry on"</span>
+And carry on</span>  
 <span class="text-body-credit">— Norah Jones</span><span class="annotated" data-note="From the album ''Day Breaks'', 2016.">*</span>
