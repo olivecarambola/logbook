@@ -5,18 +5,18 @@ date: 2022-11-03
 permalink: /posts/22-11-03-bricklayer/
 summary: "Possibly the most widely known passage from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
 collection: "coda"
-wrdcount_original: 257
+wrdcount_original: 252
 wrdcount_quote: 487
 wrdcount_translated: 0
 wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-In the early 2000s, when more and more people were getting infatuated with the wonders of the internet but our lives weren't yet ruled by social media, some of us took to sending group emails once or twice a week with the funniest posts we read. In those years, I came across a man's account of how he got injured in a construction incident. I had not laughed that hard at written content ever before in my life until I read that.
+In the early 2000s, when more and more people were getting infatuated with the wonders of the internet but our lives weren't yet ruled by social media, some of us took to sending group emails once or twice a week with the funniest posts we read. In those years, I came across a man's account of how he got injured in a construction incident. I had not laughed that hard while reading ever before in my life.
 
 Unfortunately, since these emails were compiled entirely by people and not by algorithms, credits were often omitted and it was almost impossible to track the owner of the content. So I didn't know whether it was a real account or fiction, whether it was in the news or a book, or anything else about the story. It was sad, but I had to let it go.
 
-About 20 years later, I was having dinner in the *padaria* near my house and reading a book, as I do every night after work on my way home. And there it was. The same story, except in English. The first one I read was in Turkish, and unlike the original, it was complete. I had to give it to the translator, whoever it was. Because they did such a good job with the localization that I'd never questioned the assumption that this was a story about a Turkish construction worker.
+About 20 years later, I was having dinner in the *padaria* near my house and reading a book, as I do every night after work on my way home. And there it was. The same story, except in English. The first one I read was in Turkish, and unlike the original, it was complete. I have to give it to the translator, whoever it was. Because they did such an amazing job with the localization that I'd never questioned the assumption that this was a story about a Turkish construction worker.
 
 Turns out, it was an excerpt from none other than David Foster Wallace's famous and infamous Infinite Jest:
 
