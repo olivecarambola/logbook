@@ -3,9 +3,9 @@ layout: posts
 title: "bricklayer"
 date: 2022-11-03
 permalink: /posts/22-11-03-bricklayer/
-summary: "A passage from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
+summary: "A widely circulated tale from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
 collection: "coda"
-wrdcount_original: 252
+wrdcount_original: 253
 wrdcount_quote: 487
 wrdcount_translated: 0
 wrdcount_capnotes: 0
@@ -18,7 +18,7 @@ Unfortunately, since these emails were compiled entirely by people and not by al
 
 About 20 years later, I was having dinner in the *padaria* near my house and reading a book, as I do every night after work on my way home. And there it was. The same story, except in English. The first one I read was in Turkish, and unlike the original, it was complete. I have to give it to the translator, whoever it was. Because they did such an amazing job with the localization that I'd never questioned the assumption that this was a story about a Turkish construction worker.
 
-Turns out, it was an excerpt from none other than David Foster Wallace's famous and infamous Infinite Jest:
+Turns out, it was an excerpt from none other than David Foster Wallace's famous and infamous *Infinite Jest* (1996):
 
 <span class="text-body-quote">Dear Sir:</span>
 
