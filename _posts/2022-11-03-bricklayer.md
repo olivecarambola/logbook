@@ -3,7 +3,7 @@ layout: posts
 title: "bricklayer"
 date: 2022-11-03
 permalink: /posts/22-11-03-bricklayer/
-summary: "Possibly the most widely known passage from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
+summary: "A passage from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
 collection: "coda"
 wrdcount_original: 252
 wrdcount_quote: 487
