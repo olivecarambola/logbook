@@ -6,7 +6,7 @@ permalink: /posts/22-11-03-bricklayer/
 summary: "A widely circulated tale from David Foster Wallace's famous and infamous ''Infinite Jest'' (1996)."
 collection: "coda"
 wrdcount_original: 253
-wrdcount_quote: 487
+wrdcount_quote: 486
 wrdcount_translated: 0
 wrdcount_capnotes: 0
 imgcount_original: 0
