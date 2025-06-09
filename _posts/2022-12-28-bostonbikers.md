@@ -14,6 +14,6 @@ imgcount_credited: 0
 ---
 <span class="text-body-credit">AA quotes from David Foster Wallace's ''Infinite Jest'' (1996).</span>
 
-<span class="text-body-quote">"There are, by ratified tradition, no 'musts' in Boston AA. No doctrine or dogma or rules. They can't kick you out. You don't have to do what they say. Do exactly as you please — if you still trust what seems to please you."</span><span class="text-body-credit"> — pg. 444</span>
+<span class="text-body-quote">"There are, by ratified tradition, no 'musts' in Boston AA. No doctrine or dogma or rules. They can't kick you out. You don't have to do what they say. Do exactly as you please — if you still trust what seems to please you."</span><span class="text-body-credit"> — pg. 356</span>
 
-<span class="text-body-quote">"Gately can't even start to guess what it would be like to be a sober and drug-free biker. It's like what would be the point. He imagines these people polishing the hell out of their leather and like playing a lot of really precise pool."</span><span class="text-body-credit"> — pg. 356</span>
+<span class="text-body-quote">"Gately can't even start to guess what it would be like to be a sober and drug-free biker. It's like what would be the point. He imagines these people polishing the hell out of their leather and like playing a lot of really precise pool."</span><span class="text-body-credit"> — pg. 444</span>
