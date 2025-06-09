@@ -12,8 +12,10 @@ wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-Two limes fall off a truck and immediately get stuck to the asphalt of Highway 94 just outside Lafayette, Louisiana. One could argue that they were trying to escape the fate waiting for them in the farmer's market to which they were headed in Baton Rouge.<br>
-<span class="text-body-spacier">"Diego."<br>
+Two limes fall off a truck and immediately get stuck to the asphalt of Highway 94 just outside Lafayette, Louisiana. One could argue that they were trying to escape the fate waiting for them in the farmer's market to which they were headed in Baton Rouge.
+
+<div class="text-body-spacier">
+"Diego."<br>
 "Mmph."<br>
 "Do you think it's possible that we'll be blown to the side of the road and live to become fully-grown lime trees?"<br>
 "Chances are we'll be aromatized tire polish before we reach the end of this conversation."<br>
@@ -26,7 +28,8 @@ Two limes fall off a truck and immediately get stuck to the asphalt of Highway 9
 "What kind of lime are you? Everyone loves pink lemonade."<br>
 "Listen, Hamlin Sweet. I'm from Florida. If I'm in for a ride into some ape's digestive system alongside goddamn cherries, there better be bourbon involved."<br>
 "Haven't you ever heard the saying when life gives you lemons, make lemonade?"<br>
-"When did the entire world agree on the assumption that lemonade is better than limes? And how is turning lemons into lemonade an accomplishment? Any idiot can squish a perfectly good fruit and ruin it. I'd like to see someone make lime out of lemonade. Now that would really be something."<br>
+"When did the entire world agree on the assumption that lemonade is better than limes? And how is turning lemons into lemonade an accomplishment? Any idiot can squish a perfectly good fruit and ruin it. I'd like to see someone make lime out of lemonade. Now that would really be something."
+</div>
 "I like lemonades."<br>
 "Then there must be something seriously wrong with you. Necrophilia comes to mind."<br>
 "Oh go to hell, Diego."<br>
