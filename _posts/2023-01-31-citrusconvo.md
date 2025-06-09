@@ -29,7 +29,6 @@ Two limes fall off a truck and immediately get stuck to the asphalt of Highway 9
 "Listen, Hamlin Sweet. I'm from Florida. If I'm in for a ride into some ape's digestive system alongside goddamn cherries, there better be bourbon involved."<br>
 "Haven't you ever heard the saying when life gives you lemons, make lemonade?"<br>
 "When did the entire world agree on the assumption that lemonade is better than limes? And how is turning lemons into lemonade an accomplishment? Any idiot can squish a perfectly good fruit and ruin it. I'd like to see someone make lime out of lemonade. Now that would really be something."
-</div>
 "I like lemonades."<br>
 "Then there must be something seriously wrong with you. Necrophilia comes to mind."<br>
 "Oh go to hell, Diego."<br>
