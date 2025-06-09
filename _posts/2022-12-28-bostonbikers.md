@@ -3,7 +3,7 @@ layout: posts
 title: "boston AA"
 date: 2022-12-28
 permalink: /posts/22-12-28-bostonbikers/
-summary: "AA quotes from David Foster Wallace's ''Infinite Jest'' (1996)."
+summary: "AA quotes from David Foster Wallace's ''Infinite Jest''."
 collection: "coda"
 wrdcount_original: 0
 wrdcount_quote: 88
