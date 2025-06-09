@@ -15,6 +15,7 @@ imgcount_credited: 0
 Two limes fall off a truck and immediately get stuck to the asphalt of Highway 94 just outside Lafayette, Louisiana. One could argue that they were trying to escape the fate waiting for them in the farmer's market to which they were headed in Baton Rouge.
 
 <div class="text-body-spacier">
+  
 "Diego."  
 "Mmph."  
 "Do you think it's possible that we'll be blown to the side of the road and live to become fully-grown lime trees?"  
@@ -36,5 +37,4 @@ Two limes fall off a truck and immediately get stuck to the asphalt of Highway 9
 "You know you're toxic."  
 "Possibly. But that's for the Department of Agriculture to know and consumers to find out."  
 
-  
 </div>
