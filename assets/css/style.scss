@@ -297,6 +297,12 @@ header nav ul li a.active,               /* active menu item styling */
   margin-bottom: 1em;
 }
 
+.left-line {
+  border-left: 3px solid #888;
+  padding-left: 1em;            /* space between line and text */
+  margin: 1em 0;                /* vertical spacing */
+}
+
 .annotated {
   color: #c49cc4;
   cursor: pointer;}
