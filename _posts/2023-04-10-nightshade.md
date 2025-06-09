@@ -45,6 +45,6 @@ I can spend hours accompanied by nothing but music and cigarettes. I can be alon
 But then the disappointment goes away. Because in the end, I prefer having what I got to keep and who I got to become. I love the way I see the world. Even when it brings upon excruciating pain. Even when it takes me 200 km away to howl at the moon, and brings me back 3 days later without so much as a glance at the night sky. Especially then.
 
 <div class="left-line">
-<em>“Nerde yanlış yaptık gülüm?”  
+<em>“Nerde yanlış yaptık gülüm?”<br>
 “Hiçbiyerde gülüm. Günah bizim değil.”</em>
 </div>
