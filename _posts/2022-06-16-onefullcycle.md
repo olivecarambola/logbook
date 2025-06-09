@@ -13,7 +13,7 @@ imgcount_original: 0
 imgcount_credited: 1
 ---
 <div style="max-width: 500px; width: 100%; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/250125_marco_magic.jpg' | relative_url }}" alt="Marco 2-Jul-2023" style="width: 100%; height: auto; display: block; margin-bottom: 0.3em;">
+  <img src="{{ '/assets/images/220616_cycle.png' | relative_url }}" alt="relationship cycle" style="width: 100%; height: auto; display: block; margin-bottom: 0.3em;">
   <div class="text-body-credit">Adapted from "Möbius Structure of Relationships", <em>Arboretum</em> by David Byrne, 2006, via <a href="https://www.themarginalian.org/2013/01/18/david-byrne-arboretum/">The Marginalian</a>.</div>
 </div>
 
