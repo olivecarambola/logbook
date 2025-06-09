@@ -262,25 +262,8 @@ header nav ul li a.active,               /* active menu item styling */
   display: block;
 }
 
-.text-body-bigger {
-  font-size: 18px;
-}
-
-.text-heading-about {
-  color: #bdbdbd;
-  font-size: 20px;
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 1em;
-}
-
 .text-body-quote {
   color: #8bddcd;
-}
-
-.text-body-credit {
-  color: #8c8c8c;
-  font-size: 14px;
 }
 
 .text-body-qtdark {
@@ -290,6 +273,27 @@ header nav ul li a.active,               /* active menu item styling */
 .text-body-qtdarksm {
   color: #59bfa7;
   font-size: 14px;
+}
+
+.text-body-credit {
+  color: #8c8c8c;
+  font-size: 14px;
+}
+
+.text-body-bigger {
+  font-size: 18px;
+}
+
+.text-body-spacier {
+  margin-bottom: 0.8em;
+}
+
+.text-heading-about {
+  color: #bdbdbd;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 1em;
 }
 
 .annotated {
