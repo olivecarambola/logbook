@@ -26,7 +26,7 @@ Two limes fall off a truck and immediately get stuck to the asphalt of Highway 9
 <p class="text-customspace">"For one thing, if we were further up north we wouldn't have to worry about becoming a lame pink beverage. Pink beverages come in shot glasses in the north."</p>
 <p class="text-customspace">"What kind of lime are you? Everyone loves pink lemonade."</p>
 <p class="text-customspace">"Listen, Hamlin Sweet. I'm from Florida. If I'm in for a ride into some ape's digestive system alongside goddamn cherries, there better be bourbon involved."</p>
-<p class="text-customspace">"Haven't you ever heard the saying when life gives you lemons, make lemonade?"</p>
+<p class="text-customspace">"Haven't you ever heard the saying <em>when life gives you lemons, make lemonade</em>?"</p>
 <p class="text-customspace">"When did the entire world agree on the assumption that lemonade is better than limes? And how is turning lemons into lemonade an accomplishment? Any idiot can squish a perfectly good fruit and ruin it. I'd like to see someone make lime out of lemonade. Now that would really be something."</p>
 <p class="text-customspace">"I like lemonades."</p>
 <p class="text-customspace">"Then there must be something seriously wrong with you. Necrophilia comes to mind."</p>
