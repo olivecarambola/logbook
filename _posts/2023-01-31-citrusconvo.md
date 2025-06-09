@@ -34,10 +34,3 @@ Two limes fall off a truck and immediately get stuck to the asphalt of Highway 9
 <p class="text-customspace">"I don't need to. I'm the one who's belly up, so your beloved Louisiana sun will cook me inside out soon enough. You just wait and see. Look at you lying in the shade on your side with your ass up in the air. What are you, farting or something? Oh geez, where's a semi when you need one."</p>
 <p class="text-customspace">"You know you're toxic."</p>
 <p class="text-customspace">"Possibly. But that's for the Department of Agriculture to know and consumers to find out."</p>
-
-<p class="text-customspace">I like lemonades.</p>
-<p class="text-customspace">Then there must be something seriously wrong with you. Necrophilia comes to mind.</p>
-<p class="text-customspace">Oh go to hell, Diego.</p>
-<p class="text-customspace">I don't need to. I'm the one who's belly up, so your beloved Louisiana sun will cook me inside out soon enough. You just wait and see. Look at you lying in the shade on your side with your ass up in the air. What are you, farting or something? Oh geez, where's a semi when you need one.</p>
-<p class="text-customspace">You know you're toxic.</p>
-<p class="text-customspace">Possibly. But that's for the Department of Agriculture to know and consumers to find out.</p>
