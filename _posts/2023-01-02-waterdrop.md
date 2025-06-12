@@ -41,4 +41,4 @@ Were you the one?
 Let's just forget  
 Leave it behind  
 And carry on</span>  
-<span class="text-body-credit">— Norah Jones</span><span class="annotated" data-note="From the album ''Day Breaks'', 2016.">*</span>
+<span class="text-body-credit">— Norah Jones</span><span class="annotated" data-note="From the album “Day Breaks”, 2016.">*</span>
