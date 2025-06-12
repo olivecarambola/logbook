@@ -38,7 +38,7 @@ If there's one sound I recognize in this world, it's the sound of shutting down.
 
 He had been breaking my heart little by little, on most days, for quite some time. As I was leaving the hospital, picking up my meds from the pharmacy, and heading to the office to work my way through a nauseated, dizzy, feverish day, it started to dawn on me that the physical pain would likely outlast the relationship that led to it.
 
-It was no secret that he had troubles. But so did I. I just couldn't wrap my head around why we couldn't talk to each other about them. <span class="annotated" data-note="[Acının tesellisi acıdır.] From the book ''Oğullar ve Rencide Ruhlar'' by Alper Canıgüz, 2004.">Suffering consoles suffering</span>, no?
+It was no secret that he had troubles. But so did I. I just couldn't wrap my head around why we couldn't talk to each other about them. <span class="annotated" data-note="[Acının tesellisi acıdır.] From the book “Oğullar ve Rencide Ruhlar” by Alper Canıgüz, 2004.">Suffering consoles suffering</span>, no?
 
 But surely we couldn't do that. Because I was supposed to be a strong, somewhat independent woman, and he was, or at least got remarkably good at playing the part of, an individualistic, womanizer paulistano who can't be caught dead feeling romantic attachment to a girl in any real, meaningful way.
 
@@ -52,7 +52,7 @@ It all felt so pink at that moment.
 
 It was a brilliant stroke of luck that I was in the company of friends, but didn't have to talk to them, and I got to choose the music but didn't have to worry about whether they liked it or not. I just laid on the hammock, high in the sky, swinging softly, listening to the songs that took me down memory lane, and I indulged myself in remembering our time together, thinking about you, and feeling the love. I did nothing else for a while.
 
-<span class="annotated" data-note="[Kar yağıyor bu gece / Öyle beyaz ki şehir / Anlamak bir ömür sürer / Hayat niye kirlenir] ''Leyla'' by Ezginin Günlüğü, from the album ''Aşk Yüzünden'', 1998.">It's snowing tonight  
+<span class="annotated" data-note="[Kar yağıyor bu gece / Öyle beyaz ki şehir / Anlamak bir ömür sürer / Hayat niye kirlenir] “Leyla” by Ezginin Günlüğü, from the album “Aşk Yüzünden”, 1998.">It's snowing tonight  
 The city is so white  
 It takes a lifetime to fathom  
 Why life has to get sullied with mud</span>
@@ -67,7 +67,7 @@ A momentary lapse of insanity. Like a lamb heading for the slaughterhouse coming
 
 You're the one who estranged yourself from me. You're the one who shut me out. From where I stand, welcoming people into your life and bidding them goodbye is as easy as changing your t-shirt to you. I'm not built that way. I take my time letting people in, but if I do, I let them under my skin. So now, while you take off this t-shirt and toss it aside I have to go and grow a new fucking skin. It takes time, and it hurts like a bitch. So kindly, stop jerking me around and respect me while I'm grieving.
 
-<span class="annotated" data-note="''Eddie'' from the Red Hot Chili Peppers album ''Return of the Dream Canteen'', 2022.">please don't remember me  
+<span class="annotated" data-note="“Eddie” from the Red Hot Chili Peppers album “Return of the Dream Canteen”, 2022.">please don't remember me  
 for what I did last night</span>  
 and go fuck yourself.
 
