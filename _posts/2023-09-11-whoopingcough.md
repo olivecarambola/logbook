@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "stoned woman"
+title: "whooping cough"
 date: 2023-09-11
-permalink: /posts/23-09-11-stonedwoman/
-summary: "It's a shorty. Just read it."
+permalink: /posts/23-09-11-whoopingcough/
+summary: "A shorty from Stoned Woman."
 collection: "stoned woman"
 wrdcount_original: 31
 wrdcount_quote: 0
