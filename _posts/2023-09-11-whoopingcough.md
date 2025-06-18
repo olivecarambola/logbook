@@ -3,7 +3,7 @@ layout: posts
 title: "whooping cough"
 date: 2023-09-11
 permalink: /posts/23-09-11-whoopingcough/
-summary: "A shorty from Stoned Woman."
+summary: "A shorty from the Stoned Woman collection."
 collection: "stoned woman"
 wrdcount_original: 31
 wrdcount_quote: 0
