@@ -3,7 +3,7 @@ layout: posts
 title: "round the sun"
 date: 2023-10-19
 permalink: /posts/23-10-19-roundthesun/
-summary: "A shorty from Stoned Woman."
+summary: "A shorty from the Stoned Woman collection."
 collection: "stoned woman"
 wrdcount_original: 48
 wrdcount_quote: 0
