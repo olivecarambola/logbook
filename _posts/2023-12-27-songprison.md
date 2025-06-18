@@ -3,7 +3,7 @@ layout: posts
 title: "song prison"
 date: 2023-12-27
 permalink: /posts/23-12-27-songprison/
-summary: "A shorty from Stoned Woman."
+summary: "A shorty from the Stoned Woman collection."
 collection: "stoned woman"
 wrdcount_original: 84
 wrdcount_quote: 0
