@@ -5,7 +5,7 @@ date: 2022-06-16
 permalink: /posts/22-06-16-onefullcycle/
 summary: "A lamb heading for the slaughterhouse."
 collection: "coda"
-wrdcount_original: 979
+wrdcount_original: 1002
 wrdcount_quote: 10
 wrdcount_translated: 25
 wrdcount_capnotes: 70
@@ -60,6 +60,8 @@ Why life has to get sullied with mud</span>
 **Collapse** `|` **October**
 
 You had my respect. You had enough of my trust. You certainly captured my interest - romantically and platonically - and god knows I cared about you. It's not like I made you my everything, but I did leave the door open for you to be anything. Anything you wanted to be to me. And this is what you chose. This is what you cashed it in for. This, *sweetie cake*, is on you.
+
+Are you sure you're good at letting people go, and not really good at avoiding getting attached to them in the first place?
 
 **Exodus** `|` **December**
 
