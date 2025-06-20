@@ -12,5 +12,6 @@ wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-<p class="text-customspace">“What advice would you give to your 25-year-old self?”</p>
-<p class="text-customspace">“Get a smaller size of that tattoo. You're wasting a prime location for a meh one.”</p>
+“What advice would you give to your 25-year-old self?”
+
+“Get a smaller size of that tattoo. You're wasting a prime location for a meh one.”
