@@ -26,5 +26,5 @@ My jaw froze open with the bite of muffin still inside. I raised my eyes to her 
 
 She looked me in the eye for the first time since she got the news. Her eyes were red and her mouth was strained, but she wasn't crying. Not yet.
 
-<p class="text-customspace">“That really happened?”</p><br>
-“It did, babe.”
+<p class="text-customspace">“That really happened?”</p>
+<p class="text-customspace">“It did, babe.”</p>
