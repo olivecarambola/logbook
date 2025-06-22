@@ -6,7 +6,7 @@ permalink: /posts/23-06-07-ratherhave/
 summary: "A quote by Paul Gauguin."
 collection: "coda"
 wrdcount_original: 0
-wrdcount_quote: 0
+wrdcount_quote: 17
 wrdcount_translated: 0
 wrdcount_capnotes: 14
 imgcount_original: 0
