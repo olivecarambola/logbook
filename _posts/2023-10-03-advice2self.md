@@ -5,7 +5,7 @@ date: 2023-10-03
 permalink: /posts/23-10-03-advice2self/
 summary: "An exchange from the Dummy Pearls collection."
 collection: "dummy pearls"
-wrdcount_original: 0
+wrdcount_original: 25
 wrdcount_quote: 0
 wrdcount_translated: 0
 wrdcount_capnotes: 0
