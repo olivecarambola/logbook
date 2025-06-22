@@ -5,7 +5,7 @@ date: 2024-10-02
 permalink: /posts/24-10-02-infiltrated/
 summary: "Open to suggestions."
 collection: "coda"
-wrdcount_original: 332
+wrdcount_original: 107
 wrdcount_quote: 0
 wrdcount_translated: 0
 wrdcount_capnotes: 0
