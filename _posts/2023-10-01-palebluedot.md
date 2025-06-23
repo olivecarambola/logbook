@@ -16,5 +16,4 @@ imgcount_credited: 1
 
 <span class="text-body-credit">The reason this poem and this photograph are placed together here is the powerful impact that yet another article by Maria Popova, the author of The Marginalian, has made on me: "[A Brave and Startling Truth: Maya Angelou's Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan](https://www.themarginalian.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/)", 2018.</span>
 
-<img src="{{ '/assets/images/231114_mandala.png' | relative_url }}" alt="mandala" style="max-width: 500px; width: 100%; height: auto;">
-
+<img src="{{ '/assets/images/231001_palebluedot.jpg' | relative_url }}" alt="pale blue dot" style="max-width: 500px; width: 100%; height: auto;">
