@@ -21,29 +21,29 @@ Traveling through casual space
 Past aloof stars, across the way of indifferent suns  
 To a destination where all signs tell us  
 It is possible and imperative that we learn  
-A brave and startling truth  
+A brave and startling truth</span>
 
-And when we come to it  
+<span class="text-body-quote">And when we come to it  
 To the day of peacemaking  
 When we release our fingers  
 From fists of hostility  
-And allow the pure air to cool our palms  
+And allow the pure air to cool our palms</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 When the curtain falls on the minstrel show of hate  
 And faces sooted with scorn are scrubbed clean  
 When battlefields and coliseum  
 No longer rake our unique and particular sons and daughters  
 Up with the bruised and bloody grass  
-To lie in identical plots in foreign soil  
+To lie in identical plots in foreign soil</span>
 
-When the rapacious storming of the churches  
+<span class="text-body-quote">When the rapacious storming of the churches  
 The screaming racket in the temples have ceased  
 When the pennants are waving gaily  
 When the banners of the world tremble  
-Stoutly in the good, clean breeze  
+Stoutly in the good, clean breeze</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 When we let the rifles fall from our shoulders  
 And children dress their dolls in flags of truce  
 When land mines of death have been removed  
@@ -51,9 +51,9 @@ And the aged can walk into evenings of peace
 When religious ritual is not perfumed  
 By the incense of burning flesh  
 And childhood dreams are not kicked awake  
-By nightmares of abuse
+By nightmares of abuse</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 Then we will confess that not the Pyramids  
 With their stones set in mysterious perfection  
 Nor the Gardens of Babylon  
@@ -61,16 +61,16 @@ Hanging as eternal beauty
 In our collective memory  
 Not the Grand Canyon  
 Kindled into delicious color  
-By Western sunsets
+By Western sunsets</span>
 
-Nor the Danube, flowing its blue soul into Europe  
+<span class="text-body-quote">Nor the Danube, flowing its blue soul into Europe  
 Not the sacred peak of Mount Fuji  
 Stretching to the Rising Sun  
 Neither Father Amazon nor Mother Mississippi who, without favor,  
 Nurture all creatures in the depths and on the shores  
-These are not the only wonders of the world
+These are not the only wonders of the world</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 We, this people, on this minuscule and kithless globe  
 Who reach daily for the bomb, the blade and the dagger  
 Yet who petition in the dark for tokens of peace  
@@ -80,26 +80,26 @@ Which challenge our very existence
 Yet out of those same mouths  
 Come songs of such exquisite sweetness  
 That the heart falters in its labor  
-And the body is quieted into awe
+And the body is quieted into awe</span>
 
-We, this people, on this small and drifting planet  
+<span class="text-body-quote">We, this people, on this small and drifting planet  
 Whose hands can strike with such abandon  
 That in a twinkling, life is sapped from the living  
 Yet those same hands can touch with such healing, irresistible tenderness  
 That the haughty neck is happy to bow  
 And the proud back is glad to bend  
 Out of such chaos, of such contradiction  
-We learn that we are neither devils nor divines
+We learn that we are neither devils nor divines</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 We, this people, on this wayward, floating body  
 Created on this earth, of this earth  
 Have the power to fashion for this earth  
 A climate where every man and every woman  
 Can live freely without sanctimonious piety  
-Without crippling fear
+Without crippling fear</span>
 
-When we come to it  
+<span class="text-body-quote">When we come to it  
 We must confess that we are the possible  
 We are the miraculous, the true wonder of this world  
 That is when, and only when  
