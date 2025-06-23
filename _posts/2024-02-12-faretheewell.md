@@ -13,17 +13,17 @@ imgcount_original: 0
 imgcount_credited: 0
 ---
 Tchau Brasil  
-<p style="text-indent: 2em;">bless your land  
-<p style="text-indent: 4em;">your people  
-<p style="text-indent: 4em;">and your spirits.
+<p style="text-indent: 2em;">bless your land</p>
+<p style="text-indent: 4em;">your people</p>
+<p style="text-indent: 4em;">and your spirits.</p>
 
 Thank you Brasil  
-  for the most random  
-  but wonderful memories  
-    the highs  
-    the lows  
-    the trips  
-    and the tattoos.
+&nbsp;&nbsp;for the most random  
+&nbsp;&nbsp;but wonderful memories  
+&nbsp;&nbsp;&nbsp;&nbsp;the highs  
+&nbsp;&nbsp;&nbsp;&nbsp;the lows  
+&nbsp;&nbsp;&nbsp;&nbsp;the trips  
+&nbsp;&nbsp;&nbsp;&nbsp;and the tattoos.
 
 Keep fighting Brasil  
 Keep your riches  
