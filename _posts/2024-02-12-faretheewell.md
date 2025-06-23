@@ -12,18 +12,18 @@ wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-Tchau Brasil  
-<p style="text-indent: 2em;">bless your land</p>
-<p style="text-indent: 4em;">your people</p>
-<p style="text-indent: 4em;">and your spirits.</p>
+<p class="text-customspace">Tchau Brasil</p>
+<p class="text-customspace">&nbsp;&nbsp;&nbsp;&nbsp;bless your land</p>
+<p class="text-customspace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your people</p>
+<p class="text-customspace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and your spirits.</p>
 
 Thank you Brasil  
-&nbsp;&nbsp;for the most random  
-&nbsp;&nbsp;but wonderful memories  
-&nbsp;&nbsp;&nbsp;&nbsp;the highs  
-&nbsp;&nbsp;&nbsp;&nbsp;the lows  
-&nbsp;&nbsp;&nbsp;&nbsp;the trips  
-&nbsp;&nbsp;&nbsp;&nbsp;and the tattoos.
+&nbsp;&nbsp;&nbsp;&nbsp;for the most random  
+&nbsp;&nbsp;&nbsp;&nbsp;but wonderful memories  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the highs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the lows  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the trips  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the tattoos.
 
 Keep fighting Brasil  
 Keep your riches  
