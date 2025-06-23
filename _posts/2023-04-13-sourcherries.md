@@ -16,15 +16,15 @@ When Mathilde heard her grandmother had died she started cleaning. And she kept 
 
 On day four Mathilde ran out of things to clean in the house. She started weeding the backyard. Half a day later she had uprooted every single blade of weed. By the afternoon she had already launched into baking. A couple of hours later no one could believe that it was the same kitchen it had been that morning. A kitchen whose tiles were so clean that we couldn't look at them directly, now, post frenzy, resembled a restaurant bar's kitchen at the end of a Saturday night. When I got home from work, she was pulling a tray out of the oven full of muffins and it smelled like heaven. She was moving at her normal pace for the first time that week. She took her time pulling a cigarette from a pack on the counter, settling down on the wicker chair with a sigh, leaning back, crossing her legs, and lighting the cigarette. I picked up a muffin and sat across the table from her. Her hair had come halfway undone from her bun. Her baby curls, now going wildly astray, were surrounding her head like a halo in the afternoon sun, which filled the room through the speckless square-tiled French windows. Her apron had a pattern of tiny pastel-colored fruits on it: Pears, peaches, bananas, and strawberries, left to right. I bit into the muffin, burned my mouth, and decided to let it steam for a minute. She had a distant look on her face while she was blowing the cigarette smoke towards the open windows, unrushed.
 
-<span style="display: block; margin-bottom: 0.7em;">“Wow. This is really good. What is this, blueberry?”</p>
-<span style="display: block; margin-bottom: 0;">“Sour cherry.”</p>
+<span style="display: block; margin-bottom: 0.7em;">“Wow. This is really good. What is this, blueberry?”</span>
+<span style="display: block; margin-bottom: 0;">“Sour cherry.”</span>
 
 My jaw froze open with the bite of muffin still inside. I raised my eyes to her face. Her eyes were full but she was very still, holding the cigarette. If it wasn't for the smoke making its way through the air, sunbeam to sunbeam, I could think I'm looking at a picture of her, instead of her face.
 
-<span style="display: block; margin-bottom: 0.7em;">“Her recipe.”</p>
-<span style="display: block; margin-bottom: 0;">“Her recipe.”</p>
+<span style="display: block; margin-bottom: 0.7em;">“Her recipe.”</span>
+<span style="display: block; margin-bottom: 0;">“Her recipe.”</span>
 
 She looked me in the eye for the first time since she got the news. Her eyes were red and her mouth was strained, but she wasn't crying. Not yet.
 
-<span style="display: block; margin-bottom: 0.7em;">“That really happened?”</p>
-<span style="display: block; margin-bottom: 0.5em;">“It did, babe.”</p>
+<span style="display: block; margin-bottom: 0.7em;">“That really happened?”</span>
+<span style="display: block; margin-bottom: 0.5em;">“It did, babe.”</span>
