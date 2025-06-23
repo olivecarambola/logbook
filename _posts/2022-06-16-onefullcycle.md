@@ -8,7 +8,7 @@ collection: "coda"
 wrdcount_original: 1002
 wrdcount_quote: 10
 wrdcount_translated: 25
-wrdcount_capnotes: 70
+wrdcount_capnotes: 68
 imgcount_original: 0
 imgcount_credited: 1
 ---
@@ -38,7 +38,7 @@ If there's one sound I recognize in this world, it's the sound of shutting down.
 
 He had been breaking my heart little by little, on most days, for quite some time. As I was leaving the hospital, picking up my meds from the pharmacy, and heading to the office to work my way through a nauseated, dizzy, feverish day, it started to dawn on me that the physical pain would likely outlast the relationship that led to it.
 
-It was no secret that he had troubles. But so did I. I just couldn't wrap my head around why we couldn't talk to each other about them. <span class="annotated" data-note="[Acının tesellisi acıdır.] From the book “Oğullar ve Rencide Ruhlar” by Alper Canıgüz, 2004.">Suffering consoles suffering</span>, no?
+It was no secret that he had troubles. But so did I. I just couldn't wrap my head around why we couldn't talk to each other about them. <span class="annotated" data-note="[Acının tesellisi acıdır.] From “Oğullar ve Rencide Ruhlar” by Alper Canıgüz, 2004.">Suffering consoles suffering</span>, no?
 
 But surely we couldn't do that. Because I was supposed to be a strong, somewhat independent woman, and he was, or at least got remarkably good at playing the part of, an individualistic, womanizer paulistano who can't be caught dead feeling romantic attachment to a girl in any real, meaningful way.
 
