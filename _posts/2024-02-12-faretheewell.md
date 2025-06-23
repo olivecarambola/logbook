@@ -13,9 +13,9 @@ imgcount_original: 0
 imgcount_credited: 0
 ---
 Tchau Brasil  
-  bless your land  
-    your people  
-    and your spirits.
+<p style="text-indent: 2em;">bless your land  
+<p style="text-indent: 4em;">your people  
+<p style="text-indent: 4em;">and your spirits.
 
 Thank you Brasil  
   for the most random  
