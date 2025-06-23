@@ -12,33 +12,31 @@ wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-| | | |
-|-|-|-|
-|Tchau Brasil| | |
-| |bless your land| |
-| | |your people|
-| | |and your spirits.|
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Tchau Brasil</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">bless your land</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">your people</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">and your spirits.</span>
 
-|Thank you Brasil| | |
-| |for the most random| |
-| |but wonderful memories| |
-| | |the highs|
-| | |the lows|
-| | |the trips|
-| | |and the tattoos.|
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Thank you Brasil</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">for the most random</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">but wonderful memories</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">the highs</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">the lows</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">the trips</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">and the tattoos.</span>
 
-|Keep fighting Brasil| | |
-|Keep your riches| | |
-| |I'll miss your unique heartbeat| |
-| | |your colors|
-| | |your miraculous trees|
-| | |and their quirky fruits.|
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Keep fighting Brasil</span>
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Keep your riches</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">I'll miss your unique heartbeat</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">your colors</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">your miraculous trees</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">and their quirky fruits.</span>
 
-|Goodbye São Paulo| | |
-| |I'll be forever grateful to have found here| |
-| | |more of my family|
-| | |and new reasons to love living.|
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Goodbye São Paulo</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">I'll be forever grateful to have found here</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">more of my family</span>
+<span style="display: block; text-indent: 4em; margin-bottom: 0.8em;">and new reasons to love living.</span>
 
-|Goodbye São Paulo| | |
-| |one day I might just come back to your| |
-| |devil-may-care way of being.| |
+<span style="display: block; text-indent: 0; margin-bottom: 0.8em;">Stay crazy São Paulo</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">one day I might just come back to your</span>
+<span style="display: block; text-indent: 2em; margin-bottom: 0.8em;">devil-may-care way of being.</span>
