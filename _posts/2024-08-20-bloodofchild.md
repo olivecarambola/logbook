@@ -3,7 +3,7 @@ layout: posts
 title: "blood of child"
 date: 2024-08-20
 permalink: /posts/24-08-20-bloodofchild/
-summary: "They stay as pink as they came, in your eyes."
+summary: "Your children will grow up one day."
 collection: "coda"
 wrdcount_original: 347
 wrdcount_quote: 0
