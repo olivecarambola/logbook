@@ -5,10 +5,10 @@ date: 2025-03-02
 permalink: /posts/25-03-02-littleboxes/
 summary: "Rushing to put a tick next to the nearest dumbed-down role."
 collection: "ragged"
-wrdcount_original: 0
-wrdcount_quote: 0
+wrdcount_original: 2323
+wrdcount_quote: 25
 wrdcount_translated: 0
-wrdcount_capnotes: 0
+wrdcount_capnotes: 10
 imgcount_original: 0
 imgcount_credited: 0
 ---
