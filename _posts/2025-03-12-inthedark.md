@@ -3,7 +3,7 @@ layout: posts
 title: "in the dark"
 date: 2025-03-12
 permalink: /posts/25-03-12-inthedark/
-summary: "TBD"
+summary: "That morning on Rua Changrilá."
 collection: "ragged"
 wrdcount_original: 897
 wrdcount_quote: 0
