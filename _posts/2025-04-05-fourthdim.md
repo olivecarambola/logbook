@@ -5,12 +5,12 @@ date: 2025-04-05
 permalink: /posts/25-04-05-fourthdim/
 summary: "From our limited, three-dimensional view."
 collection: "ragged"
-wrdcount_original: 0
-wrdcount_quote: 0
+wrdcount_original: 457
+wrdcount_quote: 167
 wrdcount_translated: 0
-wrdcount_capnotes: 0
+wrdcount_capnotes: 50
 imgcount_original: 0
-imgcount_credited: 0
+imgcount_credited: 1
 ---
 I think it's getting to be about time that I read <span class="annotated" data-note="1969 novel by Kurt Vonnegut. The excerpts below are from this book.">Slaughterhouse-Five</span> again. I've been observing a cross-cultural shift in the storytelling style lately. Every book, film, and series I pick up is built on a nonlinear narrative on a global scale. Are we disenchanted with the chronological order of events, or are we finally ready to admit that context matters? Or maybe jumping back and forth in the story comes more naturally to humans, as our brains are not exactly organized like drawers with labels on them. I can't remember what year something happened without remembering other things that happened that year. But this shift in narrative has more of a <span class="annotated" data-note="The extraterrestrial species described in the novel.">Tralfamadorian</span> feeling to it:
 
@@ -26,9 +26,9 @@ If a film depicts a scene of a woman dressing her mother with Alzheimer's, why d
 
 It was Seth who got me reading Vonnegut. I don't think either of us expected that this novel would be so central to my philosophy later in life. A few weeks before he and I parted ways to head to our respective new continents, he had asked me if I could design a tattoo for him based on Slaughterhouse-Five. It took me some time to come up with an idea, and by the time I did, there was too much going on to allow me the time to design it. But come up with an idea, I did.
 
-The bombing of Dresden in 1945 during World War II is a pivotal event to the novel. As shocking as it is to an earthling that nearly 4000 tons of explosives and incendiaries should be dropped on a single city in less than 12 hours, from a Tralfamadorian point of view, the bombing of Dresden was always going to happen, it always is happening, and it always will have happened. Hence my idea for Seth's tattoo: A bombed and burned Dresden in a snow globe with bombs instead of snowflakes, allowing the moment of destruction raining on the city to be recreated at will with one shake of the globe. Because the moment of its happening is eternal, and eternally happening. "<span class="annotated" data-note="This is the sentence that is uttered after every instance of death in the novel.">So it goes.</span>"
+The bombing of Dresden in 1945 during World War II is a pivotal event to the novel. As shocking as it is to an earthling that nearly 4000 tons of explosives and incendiaries should be dropped on a single city in less than 12 hours, from a Tralfamadorian point of view, the bombing of Dresden was always going to happen, it always is happening, and it always will have happened. Hence my idea for Seth's tattoo: A bombed and burned Dresden in a snow globe with bombs instead of snowflakes, allowing the moment of destruction raining on the city to be recreated at will with one shake of the globe. Because the moment of its happening is eternal, and eternally happening. <span class="annotated" data-note="The sentence that is uttered after every instance of mortality in the novel.">So it goes.</span>
 
 <div style="max-width: 500px; width: 100%; margin-top: 1em; margin-bottom: 1em;">
-  <img src="{{ '250405_dresden.png' | relative_url }}" alt="dresden" style="width: 100%; height: auto; display: block; margin-bottom: 0.3em;">
+  <img src="{{ '/assets/images/250405_dresden.png' | relative_url }}" alt="dresden" style="width: 100%; height: auto; display: block; margin-bottom: 0.3em;">
   <div class="text-body-credit">Adapted from the image by <em>Deutsche Fotothek</em> showing Dresden viewed from the city hall, 1945, via <a href="https://en.wikipedia.org/wiki/Bombing_of_Dresden#/media/File:Fotothek_df_ps_0000010_Blick_vom_Rathausturm.jpg">Wikimedia Commons</a>.</div>
 </div>
