@@ -84,6 +84,10 @@ body a:hover {
   padding: 12px 20px 20px 20px;     /* 12 top, 20 right, 20 bottom, 20 left */
 }
 
+.all-titles-page #main-content {
+  padding: 6px 20px 20px 20px;     /* 6 top, 20 right, 20 bottom, 20 left on all titles page ONLY*/
+}
+
 img {
   max-width: 100%;
   height: auto;
