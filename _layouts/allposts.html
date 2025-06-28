@@ -90,18 +90,14 @@
           const content = document.getElementById(targetId);
           const summary = document.getElementById(targetId.replace('content', 'summary'));
           const topButton = document.querySelector(`.toggle-content[data-target="${targetId}"]`);
-          
-          // Get the parent list item to anchor the scroll
           const postItem = content.closest('.post-item');
-          const yOffset = -10; // adjust if you have sticky headers
-          const postTop = postItem.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          const postTop = postItem.getBoundingClientRect().top + window.pageYOffset;
           
           content.style.display = 'none';
           summary.style.display = 'block';
           if (topButton) topButton.textContent = 'See full';
           button.style.display = 'none';
           
-          // Scroll back to the top of the collapsed item
           window.scrollTo({
             top: postTop,
             behavior: 'smooth'
