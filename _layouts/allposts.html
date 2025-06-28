@@ -90,11 +90,18 @@
           const content = document.getElementById(targetId);
           const summary = document.getElementById(targetId.replace('content', 'summary'));
           const topButton = document.querySelector(`.toggle-content[data-target="${targetId}"]`);
+          const postItem = content.closest('.post-item');
+          const postTop = postItem.getBoundingClientRect().top + window.pageYOffset;
           
           content.style.display = 'none';
           summary.style.display = 'block';
           if (topButton) topButton.textContent = 'See full';
           button.style.display = 'none';
+          
+          window.scrollTo({
+            top: postTop,
+            behavior: 'smooth'
+          });
         });
       });
       
