@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "little boxes"
+title: "building blocks"
 date: 2025-03-02
-permalink: /posts/25-03-02-littleboxes/
-summary: "Rushing to put a tick next to the nearest dumbed-down role."
+permalink: /posts/25-03-02-buildingblocks/
+summary: "Walk with your eyes closed if you must."
 collection: "ragged"
 wrdcount_original: 2323
 wrdcount_quote: 25
