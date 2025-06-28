@@ -3,7 +3,7 @@ layout: posts
 title: "nightshade"
 date: 2023-04-10
 permalink: /posts/23-04-10-nightshade/
-summary: "Gazing at the line between the dark terrain and the dark sky."
+summary: "The line between dark terrain and dark sky."
 collection: "coda"
 wrdcount_original: 1171
 wrdcount_quote: 0
