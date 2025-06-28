@@ -69,11 +69,15 @@
           const targetId = button.getAttribute('data-target');
           const content = document.getElementById(targetId);
           const summary = document.getElementById(targetId.replace('content', 'summary'));
-          
+
           if (content.style.display === 'none') {
+            const postItem = content.closest('.post-item');
+            postItem.dataset.savedScrollY = window.scrollY;
+            
             content.style.display = 'block';
             summary.style.display = 'none';
             button.textContent = 'Back to titles';
+            
             const bottomBtn = content.querySelector('.see-less-bottom');
             if (bottomBtn) bottomBtn.style.display = 'inline-block';
           } else {
@@ -91,15 +95,15 @@
           const summary = document.getElementById(targetId.replace('content', 'summary'));
           const topButton = document.querySelector(`.toggle-content[data-target="${targetId}"]`);
           const postItem = content.closest('.post-item');
-          const postTop = postItem.getBoundingClientRect().top + window.pageYOffset;
           
           content.style.display = 'none';
           summary.style.display = 'block';
           if (topButton) topButton.textContent = 'See full';
           button.style.display = 'none';
           
+          const savedY = parseInt(postItem.dataset.savedScrollY || window.scrollY, 10);
           window.scrollTo({
-            top: postTop,
+            top: savedY,
             behavior: 'smooth'
           });
         });
@@ -139,6 +143,5 @@
         });
       });
     </script>
-  
   </body>
 </html>
