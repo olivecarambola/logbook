@@ -28,7 +28,6 @@ It was Seth who got me reading Vonnegut. I don't think either of us expected tha
 
 The bombing of Dresden in 1945 during World War II is a pivotal event to the novel. As shocking as it is to an earthling that nearly 4000 tons of explosives and incendiaries should be dropped on a single city in less than 12 hours, from a Tralfamadorian point of view, the bombing of Dresden was always going to happen, it always is happening, and it always will have happened. Hence my idea for Seth's tattoo: A bombed and burned Dresden in a snow globe with bombs instead of snowflakes, allowing the moment of destruction raining on the city to be recreated at will with one shake of the globe. Because the moment of its happening is eternal, and eternally happening. <span class="annotated" data-note="The sentence that is uttered after every instance of mortality in the novel.">So it goes.</span>
 
-<div style="max-width: 500px; width: 100%; margin-top: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/250405_dresden.png' | relative_url }}" alt="dresden" style="width: 100%; height: auto; display: block; margin-bottom: 0.3em;">
-  <div class="text-body-credit">Adapted from the image by <em>Deutsche Fotothek</em> showing Dresden viewed from the city hall, 1945, via <a href="https://en.wikipedia.org/wiki/Bombing_of_Dresden#/media/File:Fotothek_df_ps_0000010_Blick_vom_Rathausturm.jpg">Wikimedia Commons</a>.</div>
-</div>
+<img src="{{ '/assets/images/250405_dresden.png' | relative_url }}" alt="dresden" style="max-width: 500px; width: 100%; height: auto;">
+
+<span class="text-body-credit">Adapted from the image by <em>Deutsche Fotothek</em> showing Dresden viewed from the city hall, 1945, via [Wikimedia Commons](https://en.wikipedia.org/wiki/Bombing_of_Dresden#/media/File:Fotothek_df_ps_0000010_Blick_vom_Rathausturm.jpg).</span>
