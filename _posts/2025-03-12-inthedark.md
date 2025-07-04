@@ -5,14 +5,14 @@ date: 2025-03-12
 permalink: /posts/25-03-12-inthedark/
 summary: "That morning on Rua Changrilá."
 collection: "ragged"
-wrdcount_original: 897
+wrdcount_original: 900
 wrdcount_quote: 0
 wrdcount_translated: 0
 wrdcount_capnotes: 0
 imgcount_original: 0
 imgcount_credited: 0
 ---
-I woke up this morning to news from Clem that my late aunt's husband had died. She was headed to our hometown with Dad for the funeral. I wasn't close with him or anything, we'd hardly exchanged a few sentences in my whole life. But I'd grown fond of him after seeing how well he took care of my aunt throughout her battle with cancer, albeit after decades of neglect. He was like a tale of redemption to me. And now he was gone. One more relative of Dad's, gone. And yet another is unconscious in an ICU somewhere with terminal cancer - Dad's uncle, but due to their relatively small age gap, more like a big brother. I'm worried about Dad again. We all think that the reason for his collapse into an autoimmune disease is that he got severely depressed after his sister and mother had died weeks apart, a few years ago.
+I woke up this morning to news from Clem that my late aunt's husband had died. She was headed to our hometown with Dad for the funeral. I wasn't close with him or anything, we'd hardly exchanged a few sentences in my whole life. But I'd grown fond of him after seeing how well he took care of my aunt throughout her battle with cancer, until the end, albeit after decades of neglect. He was like a tale of redemption to me. And now he was gone. One more relative of Dad's, gone. And yet another is unconscious in an ICU somewhere with terminal cancer - Dad's uncle, but due to their relatively small age gap, more like a big brother. I'm worried about Dad again. We all think that the reason for his collapse into an autoimmune disease is that he got severely depressed after his sister and mother had died weeks apart, a few years ago.
 
 For some reason, every time I struggle with the possibility of losing someone I love to sickness or old age, every time I'm afraid that I'll have to watch someone waste away, my mind goes back to that morning that I found out about Dad on the second floor of the house on Rua Changrilá. After waking up to find the messages Mom had sent, I got up, crossed the hall, knocked on Kai's door, and told him what happened. As I was talking, I heard my fears in the words coming out of my mouth and in the tears that were rolling down my face. I remember the warmth of the tears. I remember feeling startled by that warmth because I hadn't realized I was crying, and I was surprised to hear what I was saying because I didn't know I felt that way. I told Kai that the whole time I was living away, I'd been assuming that I'd eventually go back to be there for my family, as the harder years approached. That I wasn't ready for those days to arrive already, and I was not prepared for those years away from them to be my parents' last good ones.
 
