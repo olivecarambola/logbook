@@ -3,7 +3,7 @@ layout: posts
 title: "sour cherries"
 date: 2023-04-13
 permalink: /posts/23-04-13-sourcherries/
-summary: "Pears, peaches, bananas, and strawberries, left to right."
+summary: "Mourning in a frenzy."
 collection: "coda"
 wrdcount_original: 704
 wrdcount_quote: 0
